@@ -1,0 +1,26 @@
+2021-04-20 00:37:08 error: StatusCode : 400, Message : name must be a string
+2021-04-20 00:37:30 error: StatusCode : 400, Message : name must be a string
+2021-04-20 00:38:30 error: StatusCode : 400, Message : name must be a string
+2021-04-20 00:39:20 error: StatusCode : 409, Message : City Санкт-Петербург already exists
+2021-04-20 00:39:33 error: StatusCode : 409, Message : City Пятигорск already exists
+2021-04-20 00:40:32 error: StatusCode : 409, Message : City Пятигорск already exists
+2021-04-20 00:42:39 error: StatusCode : 409, Message : City Санкт-Петербург already exists
+2021-04-20 00:44:27 error: StatusCode : 409, Message : City Пятигорск already exists
+2021-04-20 00:45:42 error: StatusCode : 409, Message : City Санкт-Петербург already exists
+2021-04-20 00:45:58 error: StatusCode : 409, Message : City Санкт-Петербург already exists
+2021-04-20 00:46:24 error: StatusCode : 409, Message : City Санкт-Петербург already exists
+2021-04-20 00:50:30 error: StatusCode : 409, Message : City Санкт-Петербург already exists
+2021-04-20 00:50:34 error: StatusCode : 409, Message : City Санкт-Петербург already exists
+2021-04-20 00:58:46 error: StatusCode : 409, Message : There is no city in the favorites
+2021-04-20 01:00:22 error: StatusCode : 500, Message : Cannot connect to api service
+2021-04-20 01:00:22 error: StatusCode : 500, Message : Cannot connect to api service
+2021-04-20 01:02:07 error: StatusCode : 400, Message : name must be a string
+2021-04-20 01:03:43 error: StatusCode : 400, Message : name must be a string
+2021-04-20 01:04:48 error: StatusCode : 400, Message : name must be a string
+2021-04-20 01:05:10 error: StatusCode : 400, Message : name must be a string
+2021-04-20 18:14:30 error: 🔴 Unable to connect to the database: MongoParseError: Ports not accepted with 'mongodb+srv' URIs.
+2021-04-20 18:16:18 error: 🔴 Unable to connect to the database: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/.
+2021-04-20 18:21:00 error: StatusCode : 500, Message : user is not allowed to do action [find] on [WeatherApp.cities]
+2021-04-20 18:21:16 error: StatusCode : 500, Message : user is not allowed to do action [find] on [WeatherApp.cities]
+2021-04-20 18:21:36 error: StatusCode : 500, Message : user is not allowed to do action [find] on [WeatherApp.cities]
+2021-04-20 18:24:26 error: 🔴 Unable to connect to the database: Error: querySrv ENOTFOUND _mongodb._tcp.berncluster0.kwvkq.mongodb.net.

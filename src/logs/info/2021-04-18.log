@@ -1,0 +1,157 @@
+2021-04-18 20:59:13 info: 🚀 App listening on the port 3000
+2021-04-18 20:59:13 info: 🟢 The database is connected.
+2021-04-18 20:59:44 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 179.573 ms - 513[0m
+2021-04-18 20:59:44 info: [0mGET /weather/city?name=paris [32m201[0m 162.055 ms - 534[0m
+2021-04-18 20:59:44 info: [0mGET /weather/city?name=Pyatigorsk [32m201[0m 166.656 ms - 508[0m
+2021-04-18 20:59:45 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 147.448 ms - 513[0m
+2021-04-18 20:59:49 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 144.656 ms - 513[0m
+2021-04-18 20:59:49 info: [0mGET /weather/city?name=paris [32m201[0m 144.550 ms - 534[0m
+2021-04-18 20:59:49 info: [0mGET /weather/city?name=Pyatigorsk [32m201[0m 149.097 ms - 508[0m
+2021-04-18 20:59:49 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 143.733 ms - 513[0m
+2021-04-18 21:01:03 info: [0mGET /weather/city?name=Pyatigorsk [32m201[0m 132.386 ms - 508[0m
+2021-04-18 21:01:03 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 151.652 ms - 513[0m
+2021-04-18 21:01:03 info: [0mGET /weather/city?name=paris [32m201[0m 152.335 ms - 534[0m
+2021-04-18 21:01:04 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 211.606 ms - 513[0m
+2021-04-18 21:01:19 info: [0mGET /weather/city?name=Saint-petersburg [32m201[0m 162.805 ms - 77[0m
+2021-04-18 21:01:29 info: [0mGET /weather/city?name=Saint-petersburg [32m201[0m 152.896 ms - 77[0m
+2021-04-18 21:01:37 info: [0mGET /weather/city?name=Saint%20Petersburg [32m201[0m 126.933 ms - 513[0m
+2021-04-18 21:02:03 info: 🚀 App listening on the port 3000
+2021-04-18 21:02:03 info: 🟢 The database is connected.
+2021-04-18 21:02:48 info: 🚀 App listening on the port 3000
+2021-04-18 21:02:48 info: 🟢 The database is connected.
+2021-04-18 21:03:52 info: 🚀 App listening on the port 3000
+2021-04-18 21:03:52 info: 🟢 The database is connected.
+2021-04-18 21:05:13 info: 🚀 App listening on the port 3000
+2021-04-18 21:05:13 info: 🟢 The database is connected.
+2021-04-18 21:08:21 info: 🚀 App listening on the port 3000
+2021-04-18 21:08:21 info: 🟢 The database is connected.
+2021-04-18 21:08:52 info: 🚀 App listening on the port 3000
+2021-04-18 21:08:52 info: 🟢 The database is connected.
+2021-04-18 21:11:42 info: 🚀 App listening on the port 3000
+2021-04-18 21:11:42 info: 🟢 The database is connected.
+2021-04-18 21:12:34 info: 🚀 App listening on the port 3000
+2021-04-18 21:12:34 info: 🟢 The database is connected.
+2021-04-18 21:13:43 info: 🚀 App listening on the port 3000
+2021-04-18 21:13:43 info: 🟢 The database is connected.
+2021-04-18 21:14:40 info: [0mPOST /favorite?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [33m404[0m 21.591 ms - 148[0m
+2021-04-18 21:15:16 info: 🚀 App listening on the port 3000
+2021-04-18 21:15:16 info: 🟢 The database is connected.
+2021-04-18 21:16:35 info: 🚀 App listening on the port 3000
+2021-04-18 21:16:35 info: 🟢 The database is connected.
+2021-04-18 21:18:08 info: 🚀 App listening on the port 3000
+2021-04-18 21:18:08 info: 🟢 The database is connected.
+2021-04-18 21:20:18 info: 🚀 App listening on the port 3000
+2021-04-18 21:20:18 info: 🟢 The database is connected.
+2021-04-18 21:25:07 info: 🚀 App listening on the port 3000
+2021-04-18 21:25:07 info: 🟢 The database is connected.
+2021-04-18 21:25:19 info: 🚀 App listening on the port 3000
+2021-04-18 21:25:19 info: 🟢 The database is connected.
+2021-04-18 21:25:25 info: 🚀 App listening on the port 3000
+2021-04-18 21:25:25 info: 🟢 The database is connected.
+2021-04-18 21:34:19 info: 🚀 App listening on the port 3000
+2021-04-18 21:34:19 info: 🟢 The database is connected.
+2021-04-18 21:34:27 info: 🚀 App listening on the port 3000
+2021-04-18 21:34:27 info: 🟢 The database is connected.
+2021-04-18 21:36:42 info: [0mPOST /favorite [33m404[0m 18.407 ms - 148[0m
+2021-04-18 21:37:33 info: 🚀 App listening on the port 3000
+2021-04-18 21:37:33 info: 🟢 The database is connected.
+2021-04-18 21:37:41 error: StatusCode : 500, Message : Cannot read property 'favoriteService' of undefined
+2021-04-18 21:37:41 info: [0mPOST /favorite [31m500[0m 21.935 ms - 65[0m
+2021-04-18 21:40:39 info: 🚀 App listening on the port 3000
+2021-04-18 21:40:39 info: 🟢 The database is connected.
+2021-04-18 21:41:12 error: StatusCode : 500, Message : Cannot read property 'favoriteService' of undefined
+2021-04-18 21:41:12 info: [0mPOST /favorite [31m500[0m 22.644 ms - 65[0m
+2021-04-18 21:42:11 info: 🚀 App listening on the port 3000
+2021-04-18 21:42:11 info: 🟢 The database is connected.
+2021-04-18 21:42:12 error: StatusCode : 500, Message : Cannot read property 'favoriteService' of undefined
+2021-04-18 21:42:12 info: [0mPOST /favorite [31m500[0m 33.947 ms - 65[0m
+2021-04-18 21:43:09 info: 🚀 App listening on the port 3000
+2021-04-18 21:43:09 info: 🟢 The database is connected.
+2021-04-18 21:43:22 info: 🚀 App listening on the port 3000
+2021-04-18 21:43:22 info: 🟢 The database is connected.
+2021-04-18 21:43:26 info: 🚀 App listening on the port 3000
+2021-04-18 21:43:26 info: 🟢 The database is connected.
+2021-04-18 21:43:26 error: StatusCode : 500, Message : Cannot read property 'name' of null
+2021-04-18 21:43:26 info: [0mPOST /favorite [31m500[0m 38.557 ms - 49[0m
+2021-04-18 21:45:35 info: 🚀 App listening on the port 3000
+2021-04-18 21:45:35 info: 🟢 The database is connected.
+2021-04-18 21:45:38 error: StatusCode : 500, Message : Cannot read property 'name' of null
+2021-04-18 21:45:38 info: [0mPOST /favorite [31m500[0m 29.108 ms - 49[0m
+2021-04-18 21:49:16 info: 🚀 App listening on the port 3000
+2021-04-18 21:49:16 info: 🟢 The database is connected.
+2021-04-18 21:49:19 info: 🚀 App listening on the port 3000
+2021-04-18 21:49:19 info: 🟢 The database is connected.
+2021-04-18 21:49:19 error: StatusCode : 500, Message : Cannot read property 'name' of null
+2021-04-18 21:49:19 info: [0mPOST /favorite [31m500[0m 41.047 ms - 49[0m
+2021-04-18 21:49:59 info: 🚀 App listening on the port 3000
+2021-04-18 21:49:59 info: 🟢 The database is connected.
+2021-04-18 21:50:06 info: 🚀 App listening on the port 3000
+2021-04-18 21:50:06 info: 🟢 The database is connected.
+2021-04-18 21:50:07 error: StatusCode : 500, Message : Cannot read property 'name' of null
+2021-04-18 21:50:07 info: [0mPOST /favorite [31m500[0m 29.823 ms - 49[0m
+2021-04-18 21:50:21 info: 🚀 App listening on the port 3000
+2021-04-18 21:50:22 info: 🟢 The database is connected.
+2021-04-18 21:50:25 info: [0mPOST /favorite [32m201[0m 42.858 ms - 110[0m
+2021-04-18 21:51:00 info: 🚀 App listening on the port 3000
+2021-04-18 21:51:00 info: 🟢 The database is connected.
+2021-04-18 21:51:06 info: [0mPOST /favorite [32m201[0m 48.945 ms - 110[0m
+2021-04-18 21:51:31 info: 🚀 App listening on the port 3000
+2021-04-18 21:51:31 info: 🟢 The database is connected.
+2021-04-18 21:52:03 info: 🚀 App listening on the port 3000
+2021-04-18 21:52:03 info: 🟢 The database is connected.
+2021-04-18 21:52:13 info: [0mPOST /favorite [32m201[0m 47.667 ms - 127[0m
+2021-04-18 21:52:24 info: [0mGET /favorite [32m200[0m 6.229 ms - 129[0m
+2021-04-18 21:52:38 info: [0mDELETE /favorite/498817 [33m404[0m 1.853 ms - 157[0m
+2021-04-18 21:55:57 info: 🚀 App listening on the port 3000
+2021-04-18 21:55:57 info: 🟢 The database is connected.
+2021-04-18 21:56:00 info: 🚀 App listening on the port 3000
+2021-04-18 21:56:00 info: 🟢 The database is connected.
+2021-04-18 21:56:56 info: 🚀 App listening on the port 3000
+2021-04-18 21:56:56 info: 🟢 The database is connected.
+2021-04-18 21:57:04 info: 🚀 App listening on the port 3000
+2021-04-18 21:57:04 info: 🟢 The database is connected.
+2021-04-18 21:57:07 info: 🚀 App listening on the port 3000
+2021-04-18 21:57:07 info: 🟢 The database is connected.
+2021-04-18 21:57:33 info: 🚀 App listening on the port 3000
+2021-04-18 21:57:33 info: 🟢 The database is connected.
+2021-04-18 21:58:39 info: 🚀 App listening on the port 3000
+2021-04-18 21:58:39 info: 🟢 The database is connected.
+2021-04-18 21:59:28 info: 🚀 App listening on the port 3000
+2021-04-18 21:59:28 info: 🟢 The database is connected.
+2021-04-18 21:59:49 info: 🚀 App listening on the port 3000
+2021-04-18 21:59:49 info: 🟢 The database is connected.
+2021-04-18 21:59:56 error: StatusCode : 400, Message : apiId must be a string
+2021-04-18 21:59:57 info: [0mDELETE /favorite/498817 [33m400[0m 24.473 ms - 36[0m
+2021-04-18 22:13:24 error: StatusCode : 400, Message : apiId must be a string
+2021-04-18 22:13:24 info: [0mDELETE /favorite/498817 [33m400[0m 3.701 ms - 36[0m
+2021-04-18 22:15:02 info: 🚀 App listening on the port 3000
+2021-04-18 22:15:02 info: 🟢 The database is connected.
+2021-04-18 22:15:02 info: [0mDELETE /favorite/498817 [32m200[0m 38.573 ms - 127[0m
+2021-04-18 22:17:59 error: StatusCode : 400, Message : apiId must be a string
+2021-04-18 22:17:59 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [33m400[0m 5.669 ms - 36[0m
+2021-04-18 22:17:59 error: StatusCode : 400, Message : apiId must be a string
+2021-04-18 22:17:59 info: [0mGET /weather/city?name=Pyatigorsk [33m400[0m 3.246 ms - 36[0m
+2021-04-18 22:17:59 error: StatusCode : 400, Message : apiId must be a string
+2021-04-18 22:17:59 info: [0mGET /weather/city?name=paris [33m400[0m 4.811 ms - 36[0m
+2021-04-18 22:17:59 error: StatusCode : 400, Message : apiId must be a string
+2021-04-18 22:17:59 info: [0mGET /weather/city?name=Saint%20Petersburg [33m400[0m 2.968 ms - 36[0m
+2021-04-18 22:18:05 error: StatusCode : 400, Message : apiId must be a string
+2021-04-18 22:18:05 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [33m400[0m 3.497 ms - 36[0m
+2021-04-18 22:19:38 info: 🚀 App listening on the port 3000
+2021-04-18 22:19:38 info: 🟢 The database is connected.
+2021-04-18 22:20:43 info: 🚀 App listening on the port 3000
+2021-04-18 22:20:43 info: 🟢 The database is connected.
+2021-04-18 22:20:47 info: 🚀 App listening on the port 3000
+2021-04-18 22:20:47 info: 🟢 The database is connected.
+2021-04-18 22:22:03 info: 🚀 App listening on the port 3000
+2021-04-18 22:22:03 info: 🟢 The database is connected.
+2021-04-18 22:22:07 error: StatusCode : 400, Message : apiId must be a string
+2021-04-18 22:22:07 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [33m400[0m 13.684 ms - 36[0m
+2021-04-18 22:23:58 info: 🚀 App listening on the port 3000
+2021-04-18 22:23:58 info: 🟢 The database is connected.
+2021-04-18 22:24:02 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 300.987 ms - 512[0m
+2021-04-18 22:25:15 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 210.519 ms - 499[0m
+2021-04-18 22:25:17 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 210.042 ms - 499[0m
+2021-04-18 22:26:52 info: 🚀 App listening on the port 3000
+2021-04-18 22:26:52 info: 🟢 The database is connected.
+2021-04-18 22:43:31 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 190.444 ms - 497[0m

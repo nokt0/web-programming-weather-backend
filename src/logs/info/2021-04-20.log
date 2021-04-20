@@ -1,0 +1,396 @@
+2021-04-20 00:01:35 info: [0mGET /favorite [32m200[0m 8.292 ms - 213[0m
+2021-04-20 00:01:39 info: 🚀 App listening on the port 3000
+2021-04-20 00:01:39 info: 🟢 The database is connected.
+2021-04-20 00:09:43 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 202.887 ms - 499[0m
+2021-04-20 00:10:25 info: [0mGET /favorite [36m304[0m 35.680 ms - -[0m
+2021-04-20 00:10:25 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 149.306 ms - 499[0m
+2021-04-20 00:10:25 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 126.271 ms - 533[0m
+2021-04-20 00:10:25 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 151.840 ms - 512[0m
+2021-04-20 00:10:25 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 155.463 ms - 533[0m
+2021-04-20 00:10:25 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 132.878 ms - 512[0m
+2021-04-20 00:10:25 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 123.887 ms - 512[0m
+2021-04-20 00:10:25 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 152.236 ms - 512[0m
+2021-04-20 00:12:01 info: [0mGET /favorite [36m304[0m 6.009 ms - -[0m
+2021-04-20 00:12:01 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 530.905 ms - 533[0m
+2021-04-20 00:12:01 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 562.124 ms - 512[0m
+2021-04-20 00:12:02 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 196.537 ms - 512[0m
+2021-04-20 00:12:02 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 203.794 ms - 533[0m
+2021-04-20 00:12:02 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 211.543 ms - 512[0m
+2021-04-20 00:12:02 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 214.044 ms - 533[0m
+2021-04-20 00:12:04 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 126.115 ms - 499[0m
+2021-04-20 00:12:16 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 160.129 ms - 499[0m
+2021-04-20 00:12:16 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 165.868 ms - 512[0m
+2021-04-20 00:12:16 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 165.627 ms - 533[0m
+2021-04-20 00:12:16 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 149.702 ms - 512[0m
+2021-04-20 00:12:16 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 161.242 ms - 533[0m
+2021-04-20 00:12:16 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 153.025 ms - 512[0m
+2021-04-20 00:12:16 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 157.751 ms - 533[0m
+2021-04-20 00:13:20 info: [0mGET /favorite [36m304[0m 4.945 ms - -[0m
+2021-04-20 00:13:20 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 126.472 ms - 499[0m
+2021-04-20 00:13:20 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 127.741 ms - 533[0m
+2021-04-20 00:13:20 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 148.257 ms - 512[0m
+2021-04-20 00:13:20 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 137.680 ms - 533[0m
+2021-04-20 00:13:20 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 128.789 ms - 512[0m
+2021-04-20 00:13:21 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 148.824 ms - 512[0m
+2021-04-20 00:14:30 info: [0mGET /favorite [36m304[0m 5.356 ms - -[0m
+2021-04-20 00:14:30 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 115.952 ms - 512[0m
+2021-04-20 00:14:30 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 125.073 ms - 533[0m
+2021-04-20 00:14:30 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 112.153 ms - 512[0m
+2021-04-20 00:14:30 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 147.916 ms - 533[0m
+2021-04-20 00:14:30 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 159.835 ms - 512[0m
+2021-04-20 00:14:44 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [0m-[0m - ms - -[0m
+2021-04-20 00:14:46 info: [0mGET /favorite [36m304[0m 5.567 ms - -[0m
+2021-04-20 00:14:46 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 126.570 ms - 499[0m
+2021-04-20 00:14:46 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 124.923 ms - 512[0m
+2021-04-20 00:14:46 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 125.229 ms - 533[0m
+2021-04-20 00:14:46 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 101.277 ms - 533[0m
+2021-04-20 00:14:46 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 119.251 ms - 512[0m
+2021-04-20 00:14:47 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 103.042 ms - 512[0m
+2021-04-20 00:14:59 info: [0mGET /favorite [36m304[0m 3.581 ms - -[0m
+2021-04-20 00:14:59 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 123.048 ms - 499[0m
+2021-04-20 00:14:59 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 121.119 ms - 533[0m
+2021-04-20 00:14:59 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 144.702 ms - 512[0m
+2021-04-20 00:14:59 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 119.630 ms - 533[0m
+2021-04-20 00:14:59 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 126.830 ms - 512[0m
+2021-04-20 00:14:59 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 135.276 ms - 512[0m
+2021-04-20 00:15:50 info: [0mGET /favorite [36m304[0m 4.230 ms - -[0m
+2021-04-20 00:15:50 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 109.816 ms - 499[0m
+2021-04-20 00:15:50 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 115.216 ms - 533[0m
+2021-04-20 00:15:50 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 131.548 ms - 512[0m
+2021-04-20 00:15:50 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 120.826 ms - 512[0m
+2021-04-20 00:15:50 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 140.296 ms - 533[0m
+2021-04-20 00:15:50 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 131.614 ms - 512[0m
+2021-04-20 00:24:35 info: [0mGET /favorite [36m304[0m 8.428 ms - -[0m
+2021-04-20 00:24:35 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 126.654 ms - 533[0m
+2021-04-20 00:24:35 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 176.358 ms - 515[0m
+2021-04-20 00:24:35 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 131.517 ms - 533[0m
+2021-04-20 00:24:35 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 207.871 ms - 515[0m
+2021-04-20 00:24:35 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [0m-[0m - ms - -[0m
+2021-04-20 00:24:37 info: [0mGET /favorite [36m304[0m 5.034 ms - -[0m
+2021-04-20 00:24:37 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 130.250 ms - 515[0m
+2021-04-20 00:24:37 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 130.382 ms - 533[0m
+2021-04-20 00:24:37 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 162.852 ms - 502[0m
+2021-04-20 00:24:37 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 112.309 ms - 515[0m
+2021-04-20 00:24:37 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 144.099 ms - 533[0m
+2021-04-20 00:24:37 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 101.593 ms - 515[0m
+2021-04-20 00:25:43 info: [0mGET /favorite [36m304[0m 9.748 ms - -[0m
+2021-04-20 00:25:43 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 103.963 ms - 533[0m
+2021-04-20 00:25:43 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 103.686 ms - 515[0m
+2021-04-20 00:25:43 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 125.441 ms - 502[0m
+2021-04-20 00:25:44 info: [0mGET /favorite [36m304[0m 4.395 ms - -[0m
+2021-04-20 00:25:44 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 110.248 ms - 502[0m
+2021-04-20 00:25:44 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 106.898 ms - 515[0m
+2021-04-20 00:25:44 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 108.690 ms - 533[0m
+2021-04-20 00:25:47 info: [0mGET /favorite [36m304[0m 4.876 ms - -[0m
+2021-04-20 00:25:47 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 141.787 ms - 502[0m
+2021-04-20 00:25:47 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 149.100 ms - 515[0m
+2021-04-20 00:25:47 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 151.030 ms - 533[0m
+2021-04-20 00:26:16 info: [0mGET /favorite [36m304[0m 7.889 ms - -[0m
+2021-04-20 00:26:16 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 106.423 ms - 502[0m
+2021-04-20 00:26:16 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 132.165 ms - 515[0m
+2021-04-20 00:26:16 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 145.986 ms - 533[0m
+2021-04-20 00:35:36 info: [0mGET /favorite [36m304[0m 8.354 ms - -[0m
+2021-04-20 00:35:36 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 114.803 ms - 533[0m
+2021-04-20 00:35:36 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 152.104 ms - 515[0m
+2021-04-20 00:35:40 info: [0mGET /favorite [36m304[0m 6.072 ms - -[0m
+2021-04-20 00:35:40 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 159.765 ms - 533[0m
+2021-04-20 00:35:40 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 188.131 ms - 515[0m
+2021-04-20 00:35:54 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 160.643 ms - 502[0m
+2021-04-20 00:35:55 info: [0mGET /favorite [36m304[0m 4.630 ms - -[0m
+2021-04-20 00:35:55 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 128.466 ms - 533[0m
+2021-04-20 00:35:55 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 168.810 ms - 515[0m
+2021-04-20 00:36:11 info: [0mGET /favorite [36m304[0m 6.175 ms - -[0m
+2021-04-20 00:36:12 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 136.477 ms - 515[0m
+2021-04-20 00:36:12 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 128.721 ms - 533[0m
+2021-04-20 00:36:27 info: [0mGET /favorite [36m304[0m 5.575 ms - -[0m
+2021-04-20 00:36:27 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 113.550 ms - 533[0m
+2021-04-20 00:36:27 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 139.429 ms - 515[0m
+2021-04-20 00:37:05 info: [0mGET /favorite [36m304[0m 4.731 ms - -[0m
+2021-04-20 00:37:05 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 108.265 ms - 515[0m
+2021-04-20 00:37:05 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 128.814 ms - 533[0m
+2021-04-20 00:37:06 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 150.054 ms - 502[0m
+2021-04-20 00:37:08 error: StatusCode : 400, Message : name must be a string
+2021-04-20 00:37:08 info: [0mPOST /favorite [33m400[0m 4.439 ms - 35[0m
+2021-04-20 00:37:30 error: StatusCode : 400, Message : name must be a string
+2021-04-20 00:37:30 info: [0mPOST /favorite [33m400[0m 2.936 ms - 35[0m
+2021-04-20 00:38:26 info: [0mGET /favorite [36m304[0m 6.640 ms - -[0m
+2021-04-20 00:38:26 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 130.811 ms - 533[0m
+2021-04-20 00:38:26 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 141.673 ms - 515[0m
+2021-04-20 00:38:28 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 141.748 ms - 502[0m
+2021-04-20 00:38:30 error: StatusCode : 400, Message : name must be a string
+2021-04-20 00:38:30 info: [0mPOST /favorite [33m400[0m 23.845 ms - 35[0m
+2021-04-20 00:39:13 info: [0mGET /favorite [36m304[0m 4.908 ms - -[0m
+2021-04-20 00:39:13 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 140.688 ms - 515[0m
+2021-04-20 00:39:14 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 149.862 ms - 533[0m
+2021-04-20 00:39:15 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 130.854 ms - 502[0m
+2021-04-20 00:39:19 info: [0mOPTIONS /favorite [32m204[0m 0.434 ms - 0[0m
+2021-04-20 00:39:20 error: StatusCode : 409, Message : City Санкт-Петербург already exists
+2021-04-20 00:39:20 info: [0mPOST /favorite [33m409[0m 175.934 ms - 63[0m
+2021-04-20 00:39:30 info: [0mOPTIONS /favorite [32m204[0m 0.281 ms - 0[0m
+2021-04-20 00:39:30 info: [0mPOST /favorite [32m201[0m 271.174 ms - 506[0m
+2021-04-20 00:39:33 error: StatusCode : 409, Message : City Пятигорск already exists
+2021-04-20 00:39:33 info: [0mPOST /favorite [33m409[0m 151.466 ms - 52[0m
+2021-04-20 00:40:13 info: [0mOPTIONS /favorite [32m204[0m 0.248 ms - 0[0m
+2021-04-20 00:40:13 info: [0mPOST /favorite [32m201[0m 134.361 ms - 488[0m
+2021-04-20 00:40:15 info: [0mGET /favorite [32m200[0m 4.676 ms - 384[0m
+2021-04-20 00:40:15 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 141.754 ms - 502[0m
+2021-04-20 00:40:15 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 118.971 ms - 533[0m
+2021-04-20 00:40:15 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 124.686 ms - 515[0m
+2021-04-20 00:40:15 info: [0mGET /weather/city?name=%D0%9F%D0%B0%D1%80%D0%B8%D0%B6 [32m201[0m 135.834 ms - 498[0m
+2021-04-20 00:40:15 info: [0mGET /weather/city?name=%D0%9F%D1%8F%D1%82%D0%B8%D0%B3%D0%BE%D1%80%D1%81%D0%BA [32m201[0m 142.688 ms - 516[0m
+2021-04-20 00:40:32 info: [0mOPTIONS /favorite [32m204[0m 0.241 ms - 0[0m
+2021-04-20 00:40:32 error: StatusCode : 409, Message : City Пятигорск already exists
+2021-04-20 00:40:32 info: [0mPOST /favorite [33m409[0m 127.162 ms - 52[0m
+2021-04-20 00:42:19 info: [0mGET /favorite [36m304[0m 5.489 ms - -[0m
+2021-04-20 00:42:19 info: [0mGET /weather/city?name=%D0%9F%D0%B0%D1%80%D0%B8%D0%B6 [32m201[0m 125.201 ms - 498[0m
+2021-04-20 00:42:19 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 135.328 ms - 533[0m
+2021-04-20 00:42:19 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 143.663 ms - 515[0m
+2021-04-20 00:42:19 info: [0mGET /weather/city?name=%D0%9F%D1%8F%D1%82%D0%B8%D0%B3%D0%BE%D1%80%D1%81%D0%BA [32m201[0m 142.102 ms - 516[0m
+2021-04-20 00:42:37 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 103.695 ms - 502[0m
+2021-04-20 00:42:39 info: [0mOPTIONS /favorite [32m204[0m 0.336 ms - 0[0m
+2021-04-20 00:42:39 error: StatusCode : 409, Message : City Санкт-Петербург already exists
+2021-04-20 00:42:39 info: [0mPOST /favorite [33m409[0m 122.065 ms - 63[0m
+2021-04-20 00:44:22 info: [0mGET /favorite [36m304[0m 6.150 ms - -[0m
+2021-04-20 00:44:22 info: [0mGET /weather/city?name=%D0%9F%D0%B0%D1%80%D0%B8%D0%B6 [32m201[0m 112.465 ms - 496[0m
+2021-04-20 00:44:22 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 136.035 ms - 515[0m
+2021-04-20 00:44:22 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 131.695 ms - 533[0m
+2021-04-20 00:44:22 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 137.533 ms - 502[0m
+2021-04-20 00:44:22 info: [0mGET /weather/city?name=%D0%9F%D1%8F%D1%82%D0%B8%D0%B3%D0%BE%D1%80%D1%81%D0%BA [32m201[0m 147.174 ms - 516[0m
+2021-04-20 00:44:26 info: [0mOPTIONS /favorite [32m204[0m 0.291 ms - 0[0m
+2021-04-20 00:44:27 error: StatusCode : 409, Message : City Пятигорск already exists
+2021-04-20 00:44:27 info: [0mPOST /favorite [33m409[0m 156.252 ms - 52[0m
+2021-04-20 00:45:39 info: [0mGET /favorite [36m304[0m 5.047 ms - -[0m
+2021-04-20 00:45:39 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 110.547 ms - 533[0m
+2021-04-20 00:45:39 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 145.859 ms - 502[0m
+2021-04-20 00:45:39 info: [0mGET /weather/city?name=%D0%9F%D1%8F%D1%82%D0%B8%D0%B3%D0%BE%D1%80%D1%81%D0%BA [32m201[0m 125.154 ms - 516[0m
+2021-04-20 00:45:39 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 143.834 ms - 515[0m
+2021-04-20 00:45:39 info: [0mGET /weather/city?name=%D0%9F%D0%B0%D1%80%D0%B8%D0%B6 [32m201[0m 145.931 ms - 496[0m
+2021-04-20 00:45:42 info: [0mOPTIONS /favorite [32m204[0m 0.241 ms - 0[0m
+2021-04-20 00:45:42 error: StatusCode : 409, Message : City Санкт-Петербург already exists
+2021-04-20 00:45:42 info: [0mPOST /favorite [33m409[0m 119.643 ms - 63[0m
+2021-04-20 00:45:56 info: [0mGET /favorite [36m304[0m 12.829 ms - -[0m
+2021-04-20 00:45:56 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 105.259 ms - 533[0m
+2021-04-20 00:45:56 info: [0mGET /weather/city?name=%D0%9F%D0%B0%D1%80%D0%B8%D0%B6 [32m201[0m 101.725 ms - 496[0m
+2021-04-20 00:45:56 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 134.768 ms - 515[0m
+2021-04-20 00:45:56 info: [0mGET /weather/city?name=%D0%9F%D1%8F%D1%82%D0%B8%D0%B3%D0%BE%D1%80%D1%81%D0%BA [32m201[0m 135.359 ms - 516[0m
+2021-04-20 00:45:56 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 173.074 ms - 502[0m
+2021-04-20 00:45:58 info: [0mOPTIONS /favorite [32m204[0m 0.207 ms - 0[0m
+2021-04-20 00:45:58 error: StatusCode : 409, Message : City Санкт-Петербург already exists
+2021-04-20 00:45:58 info: [0mPOST /favorite [33m409[0m 102.853 ms - 63[0m
+2021-04-20 00:46:20 info: [0mGET /favorite [36m304[0m 13.702 ms - -[0m
+2021-04-20 00:46:20 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 126.211 ms - 533[0m
+2021-04-20 00:46:20 info: [0mGET /weather/city?name=%D0%9F%D0%B0%D1%80%D0%B8%D0%B6 [32m201[0m 126.366 ms - 496[0m
+2021-04-20 00:46:20 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 145.930 ms - 515[0m
+2021-04-20 00:46:20 info: [0mGET /weather/city?name=%D0%9F%D1%8F%D1%82%D0%B8%D0%B3%D0%BE%D1%80%D1%81%D0%BA [32m201[0m 167.730 ms - 516[0m
+2021-04-20 00:46:21 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 135.236 ms - 502[0m
+2021-04-20 00:46:22 info: [0mGET /favorite [36m304[0m 11.534 ms - -[0m
+2021-04-20 00:46:22 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 138.066 ms - 502[0m
+2021-04-20 00:46:22 info: [0mGET /weather/city?name=%D0%9F%D1%8F%D1%82%D0%B8%D0%B3%D0%BE%D1%80%D1%81%D0%BA [32m201[0m 122.212 ms - 516[0m
+2021-04-20 00:46:22 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 139.488 ms - 515[0m
+2021-04-20 00:46:22 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 140.097 ms - 533[0m
+2021-04-20 00:46:22 info: [0mGET /weather/city?name=%D0%9F%D0%B0%D1%80%D0%B8%D0%B6 [32m201[0m 134.565 ms - 496[0m
+2021-04-20 00:46:23 info: [0mOPTIONS /favorite [32m204[0m 0.218 ms - 0[0m
+2021-04-20 00:46:24 error: StatusCode : 409, Message : City Санкт-Петербург already exists
+2021-04-20 00:46:24 info: [0mPOST /favorite [33m409[0m 158.781 ms - 63[0m
+2021-04-20 00:46:29 info: [0mGET /favorite [36m304[0m 12.260 ms - -[0m
+2021-04-20 00:46:29 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 108.079 ms - 502[0m
+2021-04-20 00:46:29 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 124.262 ms - 533[0m
+2021-04-20 00:46:29 info: [0mGET /weather/city?name=%D0%9F%D1%8F%D1%82%D0%B8%D0%B3%D0%BE%D1%80%D1%81%D0%BA [32m201[0m 135.419 ms - 516[0m
+2021-04-20 00:46:29 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 148.274 ms - 515[0m
+2021-04-20 00:46:29 info: [0mGET /weather/city?name=%D0%9F%D0%B0%D1%80%D0%B8%D0%B6 [32m201[0m 151.070 ms - 496[0m
+2021-04-20 00:49:05 info: [0mGET /favorite [36m304[0m 8.814 ms - -[0m
+2021-04-20 00:49:05 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 135.283 ms - 515[0m
+2021-04-20 00:49:05 info: [0mGET /weather/city?name=%D0%9F%D0%B0%D1%80%D0%B8%D0%B6 [32m201[0m 129.108 ms - 496[0m
+2021-04-20 00:49:05 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 167.599 ms - 502[0m
+2021-04-20 00:49:05 info: [0mGET /weather/city?name=%D0%9F%D1%8F%D1%82%D0%B8%D0%B3%D0%BE%D1%80%D1%81%D0%BA [32m201[0m 150.874 ms - 516[0m
+2021-04-20 00:49:05 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 163.786 ms - 533[0m
+2021-04-20 00:49:36 info: [0mGET /favorite [36m304[0m 4.457 ms - -[0m
+2021-04-20 00:49:36 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 108.081 ms - 515[0m
+2021-04-20 00:49:36 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 135.976 ms - 533[0m
+2021-04-20 00:49:36 info: [0mGET /weather/city?name=%D0%9F%D0%B0%D1%80%D0%B8%D0%B6 [32m201[0m 142.106 ms - 496[0m
+2021-04-20 00:49:36 info: [0mGET /weather/city?name=%D0%9F%D1%8F%D1%82%D0%B8%D0%B3%D0%BE%D1%80%D1%81%D0%BA [32m201[0m 156.049 ms - 537[0m
+2021-04-20 00:50:17 info: [0mGET /favorite [36m304[0m 6.006 ms - -[0m
+2021-04-20 00:50:19 info: [0mGET /favorite [36m304[0m 4.895 ms - -[0m
+2021-04-20 00:50:23 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 106.621 ms - 502[0m
+2021-04-20 00:50:23 info: [0mGET /favorite [36m304[0m 7.141 ms - -[0m
+2021-04-20 00:50:23 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 125.019 ms - 533[0m
+2021-04-20 00:50:23 info: [0mGET /weather/city?name=%D0%9F%D1%8F%D1%82%D0%B8%D0%B3%D0%BE%D1%80%D1%81%D0%BA [32m201[0m 127.793 ms - 537[0m
+2021-04-20 00:50:23 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 148.762 ms - 502[0m
+2021-04-20 00:50:23 info: [0mGET /weather/city?name=%D0%9F%D0%B0%D1%80%D0%B8%D0%B6 [32m201[0m 127.781 ms - 496[0m
+2021-04-20 00:50:23 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 148.706 ms - 515[0m
+2021-04-20 00:50:29 info: [0mOPTIONS /favorite [32m204[0m 0.170 ms - 0[0m
+2021-04-20 00:50:30 error: StatusCode : 409, Message : City Санкт-Петербург already exists
+2021-04-20 00:50:30 info: [0mPOST /favorite [33m409[0m 147.951 ms - 63[0m
+2021-04-20 00:50:34 error: StatusCode : 409, Message : City Санкт-Петербург already exists
+2021-04-20 00:50:34 info: [0mPOST /favorite [33m409[0m 118.531 ms - 63[0m
+2021-04-20 00:51:37 info: 🚀 App listening on the port 3000
+2021-04-20 00:51:37 info: 🟢 The database is connected.
+2021-04-20 00:51:38 info: [0mGET /favorite [36m304[0m 21.844 ms - -[0m
+2021-04-20 00:51:38 info: [0mGET /weather/city?name=%D0%9F%D1%8F%D1%82%D0%B8%D0%B3%D0%BE%D1%80%D1%81%D0%BA [32m201[0m 132.113 ms - 537[0m
+2021-04-20 00:51:38 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 152.821 ms - 515[0m
+2021-04-20 00:51:38 info: [0mGET /weather/city?name=%D0%9F%D0%B0%D1%80%D0%B8%D0%B6 [32m201[0m 152.635 ms - 496[0m
+2021-04-20 00:51:38 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 160.259 ms - 533[0m
+2021-04-20 00:51:50 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 173.391 ms - 502[0m
+2021-04-20 00:53:02 info: [0mGET /favorite [36m304[0m 9.824 ms - -[0m
+2021-04-20 00:53:02 info: [0mGET /weather/city?name=%D0%9F%D0%B0%D1%80%D0%B8%D0%B6 [32m201[0m 125.389 ms - 496[0m
+2021-04-20 00:53:02 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 139.271 ms - 515[0m
+2021-04-20 00:53:02 info: [0mGET /weather/city?name=%D0%9F%D1%8F%D1%82%D0%B8%D0%B3%D0%BE%D1%80%D1%81%D0%BA [32m201[0m 134.215 ms - 537[0m
+2021-04-20 00:53:02 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 144.255 ms - 533[0m
+2021-04-20 00:53:04 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 155.153 ms - 502[0m
+2021-04-20 00:53:05 info: [0mGET /favorite [36m304[0m 8.457 ms - -[0m
+2021-04-20 00:53:06 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 132.218 ms - 515[0m
+2021-04-20 00:53:06 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 132.539 ms - 533[0m
+2021-04-20 00:53:06 info: [0mGET /weather/city?name=%D0%9F%D1%8F%D1%82%D0%B8%D0%B3%D0%BE%D1%80%D1%81%D0%BA [32m201[0m 131.112 ms - 537[0m
+2021-04-20 00:53:06 info: [0mGET /weather/city?name=%D0%9F%D0%B0%D1%80%D0%B8%D0%B6 [32m201[0m 149.180 ms - 496[0m
+2021-04-20 00:54:55 info: [0mGET /favorite [36m304[0m 5.553 ms - -[0m
+2021-04-20 00:54:55 info: [0mGET /weather/city?name=%D0%9F%D1%8F%D1%82%D0%B8%D0%B3%D0%BE%D1%80%D1%81%D0%BA [32m201[0m 122.708 ms - 537[0m
+2021-04-20 00:54:55 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 131.650 ms - 533[0m
+2021-04-20 00:54:55 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 142.509 ms - 515[0m
+2021-04-20 00:54:55 info: [0mGET /weather/city?name=%D0%9F%D0%B0%D1%80%D0%B8%D0%B6 [32m201[0m 156.608 ms - 496[0m
+2021-04-20 00:55:38 info: [0mGET /favorite [36m304[0m 5.675 ms - -[0m
+2021-04-20 00:55:38 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 125.448 ms - 515[0m
+2021-04-20 00:55:38 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 129.726 ms - 533[0m
+2021-04-20 00:55:38 info: [0mGET /weather/city?name=%D0%9F%D0%B0%D1%80%D0%B8%D0%B6 [32m201[0m 128.385 ms - 496[0m
+2021-04-20 00:55:38 info: [0mGET /weather/city?name=%D0%9F%D1%8F%D1%82%D0%B8%D0%B3%D0%BE%D1%80%D1%81%D0%BA [32m201[0m 146.809 ms - 537[0m
+2021-04-20 00:56:03 info: [0mGET /favorite [36m304[0m 5.842 ms - -[0m
+2021-04-20 00:56:03 info: [0mGET /weather/city?name=%D0%9F%D1%8F%D1%82%D0%B8%D0%B3%D0%BE%D1%80%D1%81%D0%BA [32m201[0m 111.879 ms - 537[0m
+2021-04-20 00:56:03 info: [0mGET /weather/city?name=%D0%9F%D0%B0%D1%80%D0%B8%D0%B6 [32m201[0m 112.329 ms - 496[0m
+2021-04-20 00:56:03 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 125.001 ms - 533[0m
+2021-04-20 00:56:03 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 138.794 ms - 515[0m
+2021-04-20 00:56:49 info: [0mGET /favorite [36m304[0m 6.215 ms - -[0m
+2021-04-20 00:56:49 info: [0mGET /weather/city?name=%D0%9F%D0%B0%D1%80%D0%B8%D0%B6 [32m201[0m 113.196 ms - 496[0m
+2021-04-20 00:56:49 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 123.264 ms - 533[0m
+2021-04-20 00:56:49 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 141.328 ms - 515[0m
+2021-04-20 00:56:49 info: [0mGET /weather/city?name=%D0%9F%D1%8F%D1%82%D0%B8%D0%B3%D0%BE%D1%80%D1%81%D0%BA [32m201[0m 151.875 ms - 537[0m
+2021-04-20 00:57:07 info: [0mGET /favorite [36m304[0m 5.348 ms - -[0m
+2021-04-20 00:57:07 info: [0mGET /weather/city?name=%D0%9F%D0%B0%D1%80%D0%B8%D0%B6 [32m201[0m 122.675 ms - 496[0m
+2021-04-20 00:57:07 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 129.475 ms - 533[0m
+2021-04-20 00:57:07 info: [0mGET /weather/city?name=%D0%9F%D1%8F%D1%82%D0%B8%D0%B3%D0%BE%D1%80%D1%81%D0%BA [32m201[0m 190.390 ms - 537[0m
+2021-04-20 00:57:07 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 206.694 ms - 515[0m
+2021-04-20 00:58:23 info: 🚀 App listening on the port 3000
+2021-04-20 00:58:23 info: 🟢 The database is connected.
+2021-04-20 00:58:23 info: [0mGET /favorite [36m304[0m 25.954 ms - -[0m
+2021-04-20 00:58:23 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 138.801 ms - 515[0m
+2021-04-20 00:58:23 info: [0mGET /weather/city?name=%D0%9F%D1%8F%D1%82%D0%B8%D0%B3%D0%BE%D1%80%D1%81%D0%BA [32m201[0m 129.219 ms - 537[0m
+2021-04-20 00:58:23 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 221.240 ms - 533[0m
+2021-04-20 00:58:23 info: [0mGET /weather/city?name=%D0%9F%D0%B0%D1%80%D0%B8%D0%B6 [32m201[0m 224.242 ms - 496[0m
+2021-04-20 00:58:44 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 165.807 ms - 502[0m
+2021-04-20 00:58:45 info: [0mGET /favorite [36m304[0m 9.346 ms - -[0m
+2021-04-20 00:58:45 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 148.629 ms - 502[0m
+2021-04-20 00:58:45 info: [0mGET /weather/city?name=%D0%9F%D0%B0%D1%80%D0%B8%D0%B6 [32m201[0m 135.774 ms - 496[0m
+2021-04-20 00:58:45 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 148.506 ms - 533[0m
+2021-04-20 00:58:45 info: [0mGET /weather/city?name=%D0%9F%D1%8F%D1%82%D0%B8%D0%B3%D0%BE%D1%80%D1%81%D0%BA [32m201[0m 145.274 ms - 537[0m
+2021-04-20 00:58:45 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 156.117 ms - 515[0m
+2021-04-20 00:58:46 info: [0mOPTIONS /favorite/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m204[0m 0.340 ms - 0[0m
+2021-04-20 00:58:46 error: StatusCode : 409, Message : There is no city in the favorites
+2021-04-20 00:58:46 info: [0mDELETE /favorite/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [33m409[0m 9.052 ms - 47[0m
+2021-04-20 01:00:01 info: [0mGET /favorite [36m304[0m 5.727 ms - -[0m
+2021-04-20 01:00:22 error: StatusCode : 500, Message : Cannot connect to api service
+2021-04-20 01:00:22 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [31m500[0m 21063.001 ms - 43[0m
+2021-04-20 01:00:22 error: StatusCode : 500, Message : Cannot connect to api service
+2021-04-20 01:00:22 info: [0mGET /weather/city?name=%D0%9F%D0%B0%D1%80%D0%B8%D0%B6 [31m500[0m 21068.065 ms - 43[0m
+2021-04-20 01:00:39 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 37474.130 ms - 515[0m
+2021-04-20 01:00:46 info: [0mGET /weather/city?name=%D0%9F%D1%8F%D1%82%D0%B8%D0%B3%D0%BE%D1%80%D1%81%D0%BA [32m201[0m 44592.624 ms - 537[0m
+2021-04-20 01:01:02 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 20081.125 ms - 502[0m
+2021-04-20 01:02:01 info: 🚀 App listening on the port 3000
+2021-04-20 01:02:01 info: 🟢 The database is connected.
+2021-04-20 01:02:01 info: [0mGET /favorite [36m304[0m 17.653 ms - -[0m
+2021-04-20 01:02:01 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 210.367 ms - 515[0m
+2021-04-20 01:02:02 info: [0mGET /weather/city?name=%D0%9F%D1%8F%D1%82%D0%B8%D0%B3%D0%BE%D1%80%D1%81%D0%BA [32m201[0m 213.579 ms - 537[0m
+2021-04-20 01:02:02 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 218.354 ms - 530[0m
+2021-04-20 01:02:02 info: [0mGET /weather/city?name=%D0%9F%D0%B0%D1%80%D0%B8%D0%B6 [32m201[0m 238.666 ms - 496[0m
+2021-04-20 01:02:02 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 153.669 ms - 502[0m
+2021-04-20 01:02:07 info: [0mOPTIONS /favorite/%D0%9F%D1%8F%D1%82%D0%B8%D0%B3%D0%BE%D1%80%D1%81%D0%BA [32m204[0m 0.324 ms - 0[0m
+2021-04-20 01:02:07 error: StatusCode : 400, Message : name must be a string
+2021-04-20 01:02:07 info: [0mDELETE /favorite/%D0%9F%D1%8F%D1%82%D0%B8%D0%B3%D0%BE%D1%80%D1%81%D0%BA [33m400[0m 2.610 ms - 35[0m
+2021-04-20 01:03:39 info: 🚀 App listening on the port 3000
+2021-04-20 01:03:39 info: 🟢 The database is connected.
+2021-04-20 01:03:40 info: [0mGET /favorite [36m304[0m 18.609 ms - -[0m
+2021-04-20 01:03:40 info: [0mGET /weather/city?name=%D0%9F%D0%B0%D1%80%D0%B8%D0%B6 [32m201[0m 165.969 ms - 496[0m
+2021-04-20 01:03:40 info: [0mGET /weather/city?name=%D0%9F%D1%8F%D1%82%D0%B8%D0%B3%D0%BE%D1%80%D1%81%D0%BA [32m201[0m 175.600 ms - 537[0m
+2021-04-20 01:03:40 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 195.549 ms - 515[0m
+2021-04-20 01:03:40 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 195.509 ms - 530[0m
+2021-04-20 01:03:41 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 136.986 ms - 502[0m
+2021-04-20 01:03:43 info: [0mOPTIONS /favorite [32m204[0m 0.332 ms - 0[0m
+2021-04-20 01:03:43 error: StatusCode : 400, Message : name must be a string
+2021-04-20 01:03:43 info: [0mDELETE /favorite [33m400[0m 3.466 ms - 35[0m
+2021-04-20 01:04:45 info: [0mGET /favorite [36m304[0m 8.944 ms - -[0m
+2021-04-20 01:04:45 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 113.392 ms - 530[0m
+2021-04-20 01:04:45 info: [0mGET /weather/city?name=%D0%9F%D0%B0%D1%80%D0%B8%D0%B6 [32m201[0m 133.775 ms - 496[0m
+2021-04-20 01:04:45 info: [0mGET /weather/city?name=%D0%9F%D1%8F%D1%82%D0%B8%D0%B3%D0%BE%D1%80%D1%81%D0%BA [32m201[0m 151.810 ms - 537[0m
+2021-04-20 01:04:45 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 160.591 ms - 515[0m
+2021-04-20 01:04:46 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 123.575 ms - 502[0m
+2021-04-20 01:04:48 info: [0mOPTIONS /favorite [32m204[0m 0.259 ms - 0[0m
+2021-04-20 01:04:48 error: StatusCode : 400, Message : name must be a string
+2021-04-20 01:04:48 info: [0mDELETE /favorite [33m400[0m 18.667 ms - 35[0m
+2021-04-20 01:05:08 info: [0mGET /favorite [36m304[0m 6.957 ms - -[0m
+2021-04-20 01:05:09 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 141.727 ms - 515[0m
+2021-04-20 01:05:09 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 162.696 ms - 502[0m
+2021-04-20 01:05:09 info: [0mGET /weather/city?name=%D0%9F%D1%8F%D1%82%D0%B8%D0%B3%D0%BE%D1%80%D1%81%D0%BA [32m201[0m 151.189 ms - 537[0m
+2021-04-20 01:05:09 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 158.715 ms - 530[0m
+2021-04-20 01:05:09 info: [0mGET /weather/city?name=%D0%9F%D0%B0%D1%80%D0%B8%D0%B6 [32m201[0m 160.877 ms - 496[0m
+2021-04-20 01:05:10 info: [0mOPTIONS /favorite [32m204[0m 0.192 ms - 0[0m
+2021-04-20 01:05:10 error: StatusCode : 400, Message : name must be a string
+2021-04-20 01:05:10 info: [0mDELETE /favorite [33m400[0m 1.788 ms - 35[0m
+2021-04-20 01:05:52 info: 🚀 App listening on the port 3000
+2021-04-20 01:05:52 info: 🟢 The database is connected.
+2021-04-20 01:05:57 info: [0mGET /favorite [36m304[0m 48.448 ms - -[0m
+2021-04-20 01:05:58 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 227.724 ms - 502[0m
+2021-04-20 01:05:58 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 194.275 ms - 515[0m
+2021-04-20 01:05:58 info: [0mGET /weather/city?name=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0 [32m201[0m 213.997 ms - 530[0m
+2021-04-20 01:05:58 info: [0mGET /weather/city?name=%D0%9F%D0%B0%D1%80%D0%B8%D0%B6 [32m201[0m 212.439 ms - 496[0m
+2021-04-20 01:05:58 info: [0mGET /weather/city?name=%D0%9F%D1%8F%D1%82%D0%B8%D0%B3%D0%BE%D1%80%D1%81%D0%BA [32m201[0m 219.654 ms - 537[0m
+2021-04-20 01:06:00 info: [0mOPTIONS /favorite [32m204[0m 0.333 ms - 0[0m
+2021-04-20 01:06:00 info: [0mDELETE /favorite [32m200[0m 22.002 ms - 111[0m
+2021-04-20 01:06:14 info: [0mOPTIONS /favorite [32m204[0m 0.207 ms - 0[0m
+2021-04-20 01:06:14 info: [0mDELETE /favorite [32m200[0m 4.989 ms - 117[0m
+2021-04-20 01:06:19 info: [0mGET /favorite [32m200[0m 6.080 ms - 212[0m
+2021-04-20 01:06:19 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 130.187 ms - 502[0m
+2021-04-20 01:06:19 info: [0mGET /weather/city?name=%D0%9F%D0%B0%D1%80%D0%B8%D0%B6 [32m201[0m 122.177 ms - 496[0m
+2021-04-20 01:06:19 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 135.866 ms - 515[0m
+2021-04-20 01:07:38 info: 🚀 App listening on the port 3000
+2021-04-20 01:07:38 info: 🟢 The database is connected.
+2021-04-20 01:07:38 info: [0mGET /favorite [36m304[0m 18.402 ms - -[0m
+2021-04-20 01:07:38 info: [0mGET /weather/city?name=%D0%9F%D0%B0%D1%80%D0%B8%D0%B6 [32m201[0m 151.653 ms - 496[0m
+2021-04-20 01:07:38 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 156.263 ms - 515[0m
+2021-04-20 01:08:33 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 141.515 ms - 502[0m
+2021-04-20 18:14:30 info: 🚀 App listening on the port 3000
+2021-04-20 18:14:30 error: 🔴 Unable to connect to the database: MongoParseError: Ports not accepted with 'mongodb+srv' URIs.
+2021-04-20 18:15:48 info: 🚀 App listening on the port 3000
+2021-04-20 18:16:09 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 243.503 ms - 503[0m
+2021-04-20 18:16:16 info: [0mOPTIONS /favorite [32m204[0m 0.552 ms - 0[0m
+2021-04-20 18:16:18 error: 🔴 Unable to connect to the database: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/.
+2021-04-20 18:17:11 info: [0mOPTIONS /favorite [32m204[0m 0.167 ms - 0[0m
+2021-04-20 18:19:19 info: [0mOPTIONS /favorite [32m204[0m 0.261 ms - 0[0m
+2021-04-20 18:19:32 info: [0mOPTIONS /favorite [32m204[0m 0.256 ms - 0[0m
+2021-04-20 18:19:41 info: [0mOPTIONS /favorite [32m204[0m 0.200 ms - 0[0m
+2021-04-20 18:19:43 info: [0mGET /favorite [0m-[0m - ms - -[0m
+2021-04-20 18:19:43 info: [0mPOST /favorite [0m-[0m - ms - -[0m
+2021-04-20 18:19:43 info: [0mPOST /favorite [0m-[0m - ms - -[0m
+2021-04-20 18:19:43 info: [0mPOST /favorite [0m-[0m - ms - -[0m
+2021-04-20 18:19:43 info: [0mPOST /favorite [0m-[0m - ms - -[0m
+2021-04-20 18:19:43 info: [0mPOST /favorite [0m-[0m - ms - -[0m
+2021-04-20 18:19:48 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 126.703 ms - 503[0m
+2021-04-20 18:19:54 info: [0mOPTIONS /favorite [32m204[0m 0.196 ms - 0[0m
+2021-04-20 18:20:59 info: 🚀 App listening on the port 3000
+2021-04-20 18:21:00 info: 🟢 The database is connected.
+2021-04-20 18:21:00 error: StatusCode : 500, Message : user is not allowed to do action [find] on [WeatherApp.cities]
+2021-04-20 18:21:00 info: [0mPOST /favorite [31m500[0m 295.202 ms - 76[0m
+2021-04-20 18:21:16 error: StatusCode : 500, Message : user is not allowed to do action [find] on [WeatherApp.cities]
+2021-04-20 18:21:16 info: [0mGET /favorite [31m500[0m 70.451 ms - 76[0m
+2021-04-20 18:21:23 info: 🚀 App listening on the port 3000
+2021-04-20 18:21:23 info: 🟢 The database is connected.
+2021-04-20 18:21:23 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 145.698 ms - 503[0m
+2021-04-20 18:21:36 info: [0mOPTIONS /favorite [32m204[0m 0.592 ms - 0[0m
+2021-04-20 18:21:36 error: StatusCode : 500, Message : user is not allowed to do action [find] on [WeatherApp.cities]
+2021-04-20 18:21:36 info: [0mPOST /favorite [31m500[0m 241.045 ms - 76[0m
+2021-04-20 18:24:09 info: 🚀 App listening on the port 3000
+2021-04-20 18:24:09 info: 🟢 The database is connected.
+2021-04-20 18:24:26 info: 🚀 App listening on the port 3000
+2021-04-20 18:24:26 error: 🔴 Unable to connect to the database: Error: querySrv ENOTFOUND _mongodb._tcp.berncluster0.kwvkq.mongodb.net.
+2021-04-20 18:24:39 info: 🚀 App listening on the port 3000
+2021-04-20 18:24:40 info: 🟢 The database is connected.
+2021-04-20 18:24:46 info: 🚀 App listening on the port 3000
+2021-04-20 18:24:47 info: 🟢 The database is connected.
+2021-04-20 18:24:50 info: [0mOPTIONS /favorite [32m204[0m 1.875 ms - 0[0m
+2021-04-20 18:24:50 info: [0mPOST /favorite [32m201[0m 338.087 ms - 478[0m

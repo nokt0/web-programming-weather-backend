@@ -1,0 +1,88 @@
+2021-04-13 20:58:30 info: 🚀 App listening on the port 3000
+2021-04-13 20:58:30 info: 🟢 The database is connected.
+2021-04-13 21:06:48 info: [0mGET /users [32m200[0m 16.166 ms - 31[0m
+2021-04-13 21:14:00 error: StatusCode : 400, Message : email must be an email, password must be a string
+2021-04-13 21:14:00 info: [0mPOST /users?email=fff@mail.com&password=123456 [33m400[0m 5.985 ms - 63[0m
+2021-04-13 21:14:12 error: StatusCode : 400, Message : email must be an email, password must be a string
+2021-04-13 21:14:12 info: [0mPOST /users?email=fff@gmail.com&password=123456 [33m400[0m 1.512 ms - 63[0m
+2021-04-13 21:14:16 error: StatusCode : 400, Message : email must be an email, password must be a string
+2021-04-13 21:14:16 info: [0mPOST /users?email=fff@gmail.com&password=afasfsaf [33m400[0m 2.780 ms - 63[0m
+2021-04-13 21:14:45 error: StatusCode : 400, Message : email must be an email, password must be a string
+2021-04-13 21:14:45 info: [0mPOST /users [33m400[0m 2.536 ms - 63[0m
+2021-04-13 21:15:08 info: [0mPOST /users [32m201[0m 114.140 ms - 169[0m
+2021-04-13 21:27:45 info: [0mGET /api-docs [36m301[0m 3.718 ms - 183[0m
+2021-04-13 21:27:45 info: [0mGET /api-docs/ [32m200[0m 5.518 ms - -[0m
+2021-04-13 21:27:45 info: [0mGET /api-docs/swagger-ui-init.js [32m200[0m 1.503 ms - -[0m
+2021-04-13 21:27:45 info: [0mGET /api-docs/swagger-ui.css [32m200[0m 15.127 ms - -[0m
+2021-04-13 21:27:45 info: [0mGET /api-docs/swagger-ui-standalone-preset.js [32m200[0m 10.091 ms - -[0m
+2021-04-13 21:27:45 info: [0mGET /api-docs/swagger-ui-bundle.js [32m200[0m 10.834 ms - -[0m
+2021-04-13 21:27:45 info: [0mGET /api-docs/favicon-32x32.png [32m200[0m 1.716 ms - 628[0m
+2021-04-13 21:28:36 info: [0mPOST /users [32m201[0m 82.797 ms - 169[0m
+2021-04-13 21:29:03 info: [0mGET /users/6075e2d4ac667540c8262587 [32m200[0m 5.110 ms - 169[0m
+2021-04-13 21:29:35 info: [0mGET /users [32m200[0m 4.257 ms - 312[0m
+2021-04-13 21:30:18 info: [0mPOST /login [32m200[0m 74.850 ms - 167[0m
+2021-04-13 21:30:20 info: [0mPOST /login [32m200[0m 74.293 ms - 167[0m
+2021-04-13 21:30:27 info: [0mPOST /login [32m200[0m 71.902 ms - 167[0m
+2021-04-13 21:33:32 info: [0mPOST /login [32m200[0m 74.059 ms - 167[0m
+2021-04-13 22:01:48 info: 🚀 App listening on the port 3000
+2021-04-13 22:01:48 info: 🟢 The database is connected.
+2021-04-13 22:03:10 info: 🚀 App listening on the port 3000
+2021-04-13 22:03:10 info: 🟢 The database is connected.
+2021-04-13 22:03:36 info: 🚀 App listening on the port 3000
+2021-04-13 22:03:36 info: 🟢 The database is connected.
+2021-04-13 22:03:43 info: 🚀 App listening on the port 3000
+2021-04-13 22:03:43 info: 🟢 The database is connected.
+2021-04-13 22:05:17 info: 🚀 App listening on the port 3000
+2021-04-13 22:05:17 info: 🟢 The database is connected.
+2021-04-13 22:06:18 info: 🚀 App listening on the port 3000
+2021-04-13 22:06:18 info: 🟢 The database is connected.
+2021-04-13 22:06:42 info: 🚀 App listening on the port 3000
+2021-04-13 22:06:42 info: 🟢 The database is connected.
+2021-04-13 22:07:07 info: 🚀 App listening on the port 3000
+2021-04-13 22:07:07 info: 🟢 The database is connected.
+2021-04-13 22:08:32 info: 🚀 App listening on the port 3000
+2021-04-13 22:08:32 info: 🟢 The database is connected.
+2021-04-13 22:09:10 info: 🚀 App listening on the port 3000
+2021-04-13 22:09:11 info: 🟢 The database is connected.
+2021-04-13 22:09:46 info: 🚀 App listening on the port 3000
+2021-04-13 22:09:46 info: 🟢 The database is connected.
+2021-04-13 22:12:55 info: 🚀 App listening on the port 3000
+2021-04-13 22:12:55 info: 🟢 The database is connected.
+2021-04-13 22:19:28 info: 🚀 App listening on the port 3000
+2021-04-13 22:19:28 info: 🟢 The database is connected.
+2021-04-13 22:21:09 info: 🚀 App listening on the port 3000
+2021-04-13 22:21:09 info: 🟢 The database is connected.
+2021-04-13 22:24:05 info: 🚀 App listening on the port 3000
+2021-04-13 22:24:05 info: 🟢 The database is connected.
+2021-04-13 22:24:45 info: 🚀 App listening on the port 3000
+2021-04-13 22:24:45 info: 🟢 The database is connected.
+2021-04-13 22:25:25 info: 🚀 App listening on the port 3000
+2021-04-13 22:25:25 info: 🟢 The database is connected.
+2021-04-13 22:28:02 info: 🚀 App listening on the port 3000
+2021-04-13 22:28:02 info: 🟢 The database is connected.
+2021-04-13 22:28:50 info: 🚀 App listening on the port 3000
+2021-04-13 22:28:50 info: 🟢 The database is connected.
+2021-04-13 22:29:11 info: 🚀 App listening on the port 3000
+2021-04-13 22:29:12 info: 🟢 The database is connected.
+2021-04-13 22:30:32 info: 🚀 App listening on the port 3000
+2021-04-13 22:30:32 info: 🟢 The database is connected.
+2021-04-13 22:30:55 info: 🚀 App listening on the port 3000
+2021-04-13 22:30:55 info: 🟢 The database is connected.
+2021-04-13 22:31:07 info: 🚀 App listening on the port 3000
+2021-04-13 22:31:07 info: 🟢 The database is connected.
+2021-04-13 22:32:02 info: 🚀 App listening on the port 3000
+2021-04-13 22:32:02 info: 🟢 The database is connected.
+2021-04-13 22:32:39 info: 🚀 App listening on the port 3000
+2021-04-13 22:32:39 info: 🟢 The database is connected.
+2021-04-13 22:34:05 info: 🚀 App listening on the port 3000
+2021-04-13 22:34:05 info: 🟢 The database is connected.
+2021-04-13 22:34:47 info: 🚀 App listening on the port 3000
+2021-04-13 22:34:47 info: 🟢 The database is connected.
+2021-04-13 22:37:59 info: 🚀 App listening on the port 3000
+2021-04-13 22:37:59 info: 🟢 The database is connected.
+2021-04-13 22:53:23 info: 🚀 App listening on the port 3000
+2021-04-13 22:53:23 info: 🟢 The database is connected.
+2021-04-13 22:53:34 info: 🚀 App listening on the port 3000
+2021-04-13 22:53:34 info: 🟢 The database is connected.
+2021-04-13 23:02:44 info: 🚀 App listening on the port 3000
+2021-04-13 23:02:44 info: 🟢 The database is connected.

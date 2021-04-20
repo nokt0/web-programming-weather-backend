@@ -1,0 +1,133 @@
+2021-04-18 21:37:41 error: StatusCode : 500, Message : Cannot read property 'favoriteService' of undefined
+2021-04-18 21:41:12 error: StatusCode : 500, Message : Cannot read property 'favoriteService' of undefined
+2021-04-18 21:42:12 error: StatusCode : 500, Message : Cannot read property 'favoriteService' of undefined
+2021-04-18 21:43:14 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/controllers/favorite.controller.ts[0m:[93m41[0m:[93m24[0m - [91merror[0m[90m TS1005: [0m';' expected.
+
+[7m41[0m     public  deleteCity async (req: Request, res: Response, next: NextFunction) => {
+[7m  [0m [91m                       ~~~~~[0m
+[96msrc/controllers/favorite.controller.ts[0m:[93m41[0m:[93m80[0m - [91merror[0m[90m TS1144: [0m'{' or ';' expected.
+
+[7m41[0m     public  deleteCity async (req: Request, res: Response, next: NextFunction) => {
+[7m  [0m [91m                                                                               ~~[0m
+[96msrc/controllers/favorite.controller.ts[0m:[93m41[0m:[93m83[0m - [91merror[0m[90m TS1068: [0mUnexpected token. A constructor, method, accessor, or property was expected.
+
+[7m41[0m     public  deleteCity async (req: Request, res: Response, next: NextFunction) => {
+[7m  [0m [91m                                                                                  ~[0m
+[96msrc/controllers/favorite.controller.ts[0m:[93m51[0m:[93m1[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.
+
+[7m51[0m }
+[7m  [0m [91m~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/controllers/favorite.controller.ts[0m:[93m41[0m:[93m24[0m - [91merror[0m[90m TS1005: [0m';' expected.
+
+[7m41[0m     public  deleteCity async (req: Request, res: Response, next: NextFunction) => {
+[7m  [0m [91m                       ~~~~~[0m
+[96msrc/controllers/favorite.controller.ts[0m:[93m41[0m:[93m80[0m - [91merror[0m[90m TS1144: [0m'{' or ';' expected.
+
+[7m41[0m     public  deleteCity async (req: Request, res: Response, next: NextFunction) => {
+[7m  [0m [91m                                                                               ~~[0m
+[96msrc/controllers/favorite.controller.ts[0m:[93m41[0m:[93m83[0m - [91merror[0m[90m TS1068: [0mUnexpected token. A constructor, method, accessor, or property was expected.
+
+[7m41[0m     public  deleteCity async (req: Request, res: Response, next: NextFunction) => {
+[7m  [0m [91m                                                                                  ~[0m
+[96msrc/controllers/favorite.controller.ts[0m:[93m51[0m:[93m1[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.
+
+[7m51[0m }
+[7m  [0m [91m~[0m
+
+    at createTSError (C:\Code\web-programming\backend\node_modules\ts-node\src\index.ts:513:12)
+    at reportTSError (C:\Code\web-programming\backend\node_modules\ts-node\src\index.ts:517:19)
+    at getOutput (C:\Code\web-programming\backend\node_modules\ts-node\src\index.ts:955:34)
+    at Object.compile (C:\Code\web-programming\backend\node_modules\ts-node\src\index.ts:968:32)
+    at Module.m._compile (C:\Code\web-programming\backend\node_modules\ts-node\src\index.ts:1056:42)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Code\web-programming\backend\node_modules\ts-node\src\index.ts:1059:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (C:\Code\web-programming\backend\src\routes\favorites.route.ts:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (C:\Code\web-programming\backend\node_modules\ts-node\src\index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Code\web-programming\backend\node_modules\ts-node\src\index.ts:1059:12)
+2021-04-18 21:43:26 error: StatusCode : 500, Message : Cannot read property 'name' of null
+2021-04-18 21:45:38 error: StatusCode : 500, Message : Cannot read property 'name' of null
+2021-04-18 21:49:19 error: StatusCode : 500, Message : Cannot read property 'name' of null
+2021-04-18 21:50:07 error: StatusCode : 500, Message : Cannot read property 'name' of null
+2021-04-18 21:59:56 error: StatusCode : 400, Message : apiId must be a string
+2021-04-18 22:13:24 error: StatusCode : 400, Message : apiId must be a string
+2021-04-18 22:17:59 error: StatusCode : 400, Message : apiId must be a string
+2021-04-18 22:17:59 error: StatusCode : 400, Message : apiId must be a string
+2021-04-18 22:17:59 error: StatusCode : 400, Message : apiId must be a string
+2021-04-18 22:17:59 error: StatusCode : 400, Message : apiId must be a string
+2021-04-18 22:18:05 error: StatusCode : 400, Message : apiId must be a string
+2021-04-18 22:19:33 error: uncaughtException: Unexpected token ','
+C:\Code\web-programming\backend\src\dtos\weather.dto.ts:28
+class CreateCityDto extends CreateCityIdDto, CreateCityNameDto {
+                                           ^
+
+SyntaxError: Unexpected token ','
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Module.m._compile (C:\Code\web-programming\backend\node_modules\ts-node\src\index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Code\web-programming\backend\node_modules\ts-node\src\index.ts:1059:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (C:\Code\web-programming\backend\src\routes\weather.route.ts:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (C:\Code\web-programming\backend\node_modules\ts-node\src\index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Code\web-programming\backend\node_modules\ts-node\src\index.ts:1059:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-04-18 22:20:07 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/dtos/weather.dto.ts[0m:[93m14[0m:[93m3[0m - [91merror[0m[90m TS1131: [0mProperty or signature expected.
+
+[7m14[0m   @IsString()
+[7m  [0m [91m  ~[0m
+[96msrc/dtos/weather.dto.ts[0m:[93m15[0m:[93m9[0m - [91merror[0m[90m TS1146: [0mDeclaration expected.
+
+[7m15[0m   public name: string;
+[7m  [0m [91m        [0m
+[96msrc/dtos/weather.dto.ts[0m:[93m16[0m:[93m1[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.
+
+[7m16[0m }
+[7m  [0m [91m~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/dtos/weather.dto.ts[0m:[93m14[0m:[93m3[0m - [91merror[0m[90m TS1131: [0mProperty or signature expected.
+
+[7m14[0m   @IsString()
+[7m  [0m [91m  ~[0m
+[96msrc/dtos/weather.dto.ts[0m:[93m15[0m:[93m9[0m - [91merror[0m[90m TS1146: [0mDeclaration expected.
+
+[7m15[0m   public name: string;
+[7m  [0m [91m        [0m
+[96msrc/dtos/weather.dto.ts[0m:[93m16[0m:[93m1[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.
+
+[7m16[0m }
+[7m  [0m [91m~[0m
+
+    at createTSError (C:\Code\web-programming\backend\node_modules\ts-node\src\index.ts:513:12)
+    at reportTSError (C:\Code\web-programming\backend\node_modules\ts-node\src\index.ts:517:19)
+    at getOutput (C:\Code\web-programming\backend\node_modules\ts-node\src\index.ts:955:34)
+    at Object.compile (C:\Code\web-programming\backend\node_modules\ts-node\src\index.ts:968:32)
+    at Module.m._compile (C:\Code\web-programming\backend\node_modules\ts-node\src\index.ts:1056:42)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Code\web-programming\backend\node_modules\ts-node\src\index.ts:1059:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (C:\Code\web-programming\backend\src\routes\weather.route.ts:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (C:\Code\web-programming\backend\node_modules\ts-node\src\index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Code\web-programming\backend\node_modules\ts-node\src\index.ts:1059:12)
+2021-04-18 22:22:07 error: StatusCode : 400, Message : apiId must be a string

@@ -1,0 +1,39 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\Code\\web-programming\\backend\\src\\logs\\error\\.64f510dd80152fe0c17efdb46efb86b7935eb90d-audit.json",
+    "files": [
+        {
+            "date": 1618336708252,
+            "name": "C:\\Code\\web-programming\\backend\\src\\logs\\error\\2021-04-13.error.log",
+            "hash": "346c06f5faa8d86ad59d4affa4b4e84b"
+        },
+        {
+            "date": 1618416422131,
+            "name": "C:\\Code\\web-programming\\backend\\src\\logs\\error\\2021-04-14.error.log",
+            "hash": "e9fc19bb5d825132bd73bb823a09668a"
+        },
+        {
+            "date": 1618502681427,
+            "name": "C:\\Code\\web-programming\\backend\\src\\logs\\error\\2021-04-15.error.log",
+            "hash": "30b865899574c292dd0e816a975901d3"
+        },
+        {
+            "date": 1618768750739,
+            "name": "C:\\Code\\web-programming\\backend\\src\\logs\\error\\2021-04-18.error.log",
+            "hash": "139d63b47a1a2ec76ec36e08e1e74a00"
+        },
+        {
+            "date": 1618859413075,
+            "name": "C:\\Code\\web-programming\\backend\\src\\logs\\error\\2021-04-19.error.log",
+            "hash": "283d097338c88bf0c5d78035717f4fc5"
+        },
+        {
+            "date": 1618866097418,
+            "name": "C:\\Code\\web-programming\\backend\\src\\logs\\error\\2021-04-20.error.log",
+            "hash": "d96153e3a326fb56820247512f71f6ab"
+        }
+    ]
+}

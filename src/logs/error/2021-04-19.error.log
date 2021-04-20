@@ -1,0 +1,68 @@
+2021-04-19 22:54:53 error: StatusCode : 500, Message : City validation failed: apiId: Path `apiId` is required.
+2021-04-19 23:39:56 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/controllers/favorite.controller.ts[0m:[93m51[0m:[93m9[0m - [91merror[0m[90m TS1005: [0m'finally' expected.
+
+[7m51[0m         try {
+[7m  [0m [91m        ~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/controllers/favorite.controller.ts[0m:[93m51[0m:[93m9[0m - [91merror[0m[90m TS1005: [0m'finally' expected.
+
+[7m51[0m         try {
+[7m  [0m [91m        ~~~[0m
+
+    at createTSError (C:\Code\web-programming\backend\node_modules\ts-node\src\index.ts:513:12)
+    at reportTSError (C:\Code\web-programming\backend\node_modules\ts-node\src\index.ts:517:19)
+    at getOutput (C:\Code\web-programming\backend\node_modules\ts-node\src\index.ts:955:34)
+    at Object.compile (C:\Code\web-programming\backend\node_modules\ts-node\src\index.ts:968:32)
+    at Module.m._compile (C:\Code\web-programming\backend\node_modules\ts-node\src\index.ts:1056:42)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Code\web-programming\backend\node_modules\ts-node\src\index.ts:1059:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (C:\Code\web-programming\backend\src\routes\favorites.route.ts:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (C:\Code\web-programming\backend\node_modules\ts-node\src\index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Code\web-programming\backend\node_modules\ts-node\src\index.ts:1059:12)
+2021-04-19 23:40:07 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/controllers/favorite.controller.ts[0m:[93m51[0m:[93m9[0m - [91merror[0m[90m TS1005: [0m'finally' expected.
+
+[7m51[0m         try {
+[7m  [0m [91m        ~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/controllers/favorite.controller.ts[0m:[93m51[0m:[93m9[0m - [91merror[0m[90m TS1005: [0m'finally' expected.
+
+[7m51[0m         try {
+[7m  [0m [91m        ~~~[0m
+
+    at createTSError (C:\Code\web-programming\backend\node_modules\ts-node\src\index.ts:513:12)
+    at reportTSError (C:\Code\web-programming\backend\node_modules\ts-node\src\index.ts:517:19)
+    at getOutput (C:\Code\web-programming\backend\node_modules\ts-node\src\index.ts:955:34)
+    at Object.compile (C:\Code\web-programming\backend\node_modules\ts-node\src\index.ts:968:32)
+    at Module.m._compile (C:\Code\web-programming\backend\node_modules\ts-node\src\index.ts:1056:42)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Code\web-programming\backend\node_modules\ts-node\src\index.ts:1059:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (C:\Code\web-programming\backend\src\routes\favorites.route.ts:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (C:\Code\web-programming\backend\node_modules\ts-node\src\index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Code\web-programming\backend\node_modules\ts-node\src\index.ts:1059:12)
+2021-04-19 23:43:09 error: StatusCode : 409, Message : You're city Санкт-Петербург already exists
+2021-04-19 23:44:11 error: StatusCode : 409, Message : You're city Санкт-Петербург already exists
+2021-04-19 23:45:42 error: StatusCode : 409, Message : You're city Санкт-Петербург already exists
+2021-04-19 23:48:14 error: StatusCode : 409, Message : City Санкт-Петербург already exists
+2021-04-19 23:48:23 error: StatusCode : 409, Message : City Санкт-Петербург already exists
+2021-04-19 23:48:54 error: StatusCode : 409, Message : City Not found
+2021-04-19 23:51:48 error: StatusCode : 500, Message : E11000 duplicate key error collection: weatherApp.cities index: apiId_1 dup key: { apiId: null }
+2021-04-19 23:53:01 error: StatusCode : 500, Message : E11000 duplicate key error collection: weatherApp.cities index: apiId_1 dup key: { apiId: null }
+2021-04-19 23:55:27 error: StatusCode : 409, Message : City Москва already exists
+2021-04-19 23:55:39 error: StatusCode : 500, Message : E11000 duplicate key error collection: weatherApp.cities index: apiId_1 dup key: { apiId: null }
+2021-04-19 23:56:41 error: StatusCode : 409, Message : City Москва already exists

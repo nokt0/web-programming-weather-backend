@@ -1,0 +1,106 @@
+2021-04-14 19:16:56 error: StatusCode : 400, Message : name must be a string
+2021-04-14 19:18:20 error: StatusCode : 400, Message : name must be a string
+2021-04-14 19:18:39 error: StatusCode : 400, Message : name must be a string
+2021-04-14 19:19:31 error: uncaughtException: req is not defined
+ReferenceError: req is not defined
+    at Object.validationMiddleware [as default] (C:\Code\web-programming\backend\src\middlewares\validation.middleware.ts:7:15)
+    at UsersRoute.initializeRoutes (C:\Code\web-programming\backend\src\routes\users.route.ts:19:58)
+    at new UsersRoute (C:\Code\web-programming\backend\src\routes\users.route.ts:13:10)
+    at Object.<anonymous> (C:\Code\web-programming\backend\src\server.ts:11:40)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (C:\Code\web-programming\backend\node_modules\ts-node\src\index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Code\web-programming\backend\node_modules\ts-node\src\index.ts:1059:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at main (C:\Code\web-programming\backend\node_modules\ts-node\src\bin.ts:198:14)
+    at Object.<anonymous> (C:\Code\web-programming\backend\node_modules\ts-node\src\bin.ts:288:3)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-04-14 19:19:49 error: StatusCode : 400, Message : name must be a string
+2021-04-14 19:20:04 error: StatusCode : 400, Message : name must be a string
+2021-04-14 19:20:55 error: StatusCode : 400, Message : name must be a string
+2021-04-14 19:21:45 error: StatusCode : 500, Message : fetch is not defined
+2021-04-14 19:22:14 error: uncaughtException: Cannot find module 'node-'
+Require stack:
+- C:\Code\web-programming\backend\src\services\weather.service.ts
+- C:\Code\web-programming\backend\src\controllers\weather.controller.ts
+- C:\Code\web-programming\backend\src\routes\weather.route.ts
+- C:\Code\web-programming\backend\src\server.ts
+Error: Cannot find module 'node-'
+Require stack:
+- C:\Code\web-programming\backend\src\services\weather.service.ts
+- C:\Code\web-programming\backend\src\controllers\weather.controller.ts
+- C:\Code\web-programming\backend\src\routes\weather.route.ts
+- C:\Code\web-programming\backend\src\server.ts
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:880:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:725:27)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (C:\Code\web-programming\backend\src\services\weather.service.ts:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (C:\Code\web-programming\backend\node_modules\ts-node\src\index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Code\web-programming\backend\node_modules\ts-node\src\index.ts:1059:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (C:\Code\web-programming\backend\src\controllers\weather.controller.ts:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (C:\Code\web-programming\backend\node_modules\ts-node\src\index.ts:1056:23)
+2021-04-14 19:22:23 error: StatusCode : 500, Message : node_fetch_1.fetch is not a function
+2021-04-14 19:46:31 error: StatusCode : 500, Message : Cannot connect to api service
+2021-04-14 19:47:34 error: StatusCode : 500, Message : Cannot connect to api service
+2021-04-14 19:47:43 error: StatusCode : 500, Message : Cannot connect to api service
+2021-04-14 19:59:53 error: uncaughtException: decodeUriMiddleware is not defined
+ReferenceError: decodeUriMiddleware is not defined
+    at WeatherRoutes.initializeRoutes (C:\Code\web-programming\backend\src\routes\weather.route.ts:17:42)
+    at new WeatherRoutes (C:\Code\web-programming\backend\src\routes\weather.route.ts:13:10)
+    at Object.<anonymous> (C:\Code\web-programming\backend\src\server.ts:11:59)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (C:\Code\web-programming\backend\node_modules\ts-node\src\index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Code\web-programming\backend\node_modules\ts-node\src\index.ts:1059:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at main (C:\Code\web-programming\backend\node_modules\ts-node\src\bin.ts:198:14)
+    at Object.<anonymous> (C:\Code\web-programming\backend\node_modules\ts-node\src\bin.ts:288:3)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-04-14 19:59:55 error: uncaughtException: decodeUriMiddleware is not defined
+ReferenceError: decodeUriMiddleware is not defined
+    at WeatherRoutes.initializeRoutes (C:\Code\web-programming\backend\src\routes\weather.route.ts:17:42)
+    at new WeatherRoutes (C:\Code\web-programming\backend\src\routes\weather.route.ts:13:10)
+    at Object.<anonymous> (C:\Code\web-programming\backend\src\server.ts:11:59)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (C:\Code\web-programming\backend\node_modules\ts-node\src\index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Code\web-programming\backend\node_modules\ts-node\src\index.ts:1059:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at main (C:\Code\web-programming\backend\node_modules\ts-node\src\bin.ts:198:14)
+    at Object.<anonymous> (C:\Code\web-programming\backend\node_modules\ts-node\src\bin.ts:288:3)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-04-14 20:00:57 error: StatusCode : 500, Message : Cannot connect to api service
+2021-04-14 20:01:28 error: StatusCode : 500, Message : Cannot connect to api service
+2021-04-14 20:02:15 error: StatusCode : 500, Message : Cannot connect to api service
+2021-04-14 20:03:00 error: StatusCode : 500, Message : Cannot connect to api service
+2021-04-14 20:04:33 error: StatusCode : 500, Message : Cannot connect to api service
+2021-04-14 20:04:46 error: StatusCode : 500, Message : Cannot connect to api service
+2021-04-14 20:05:16 error: StatusCode : 500, Message : Cannot connect to api service
+2021-04-14 20:05:33 error: StatusCode : 500, Message : Cannot connect to api service
+2021-04-14 20:06:21 error: StatusCode : 500, Message : Cannot connect to api service
+2021-04-14 20:07:23 error: StatusCode : 500, Message : Cannot connect to api service
+2021-04-14 20:09:17 error: StatusCode : 500, Message : Cannot connect to api service
+2021-04-14 20:09:57 error: StatusCode : 500, Message : Cannot connect to api service
+2021-04-14 20:11:01 error: StatusCode : 500, Message : Cannot connect to api service

@@ -1,0 +1,261 @@
+2021-04-14 19:07:05 info: 🚀 App listening on the port 3000
+2021-04-14 19:07:05 info: 🟢 The database is connected.
+2021-04-14 19:09:14 info: 🚀 App listening on the port 3000
+2021-04-14 19:09:14 info: 🟢 The database is connected.
+2021-04-14 19:09:51 info: 🚀 App listening on the port 3000
+2021-04-14 19:09:51 info: 🟢 The database is connected.
+2021-04-14 19:10:38 info: 🚀 App listening on the port 3000
+2021-04-14 19:10:38 info: 🟢 The database is connected.
+2021-04-14 19:11:14 info: 🚀 App listening on the port 3000
+2021-04-14 19:11:14 info: 🟢 The database is connected.
+2021-04-14 19:16:07 info: 🚀 App listening on the port 3000
+2021-04-14 19:16:07 info: 🟢 The database is connected.
+2021-04-14 19:16:33 info: 🚀 App listening on the port 3000
+2021-04-14 19:16:33 info: 🟢 The database is connected.
+2021-04-14 19:16:56 error: StatusCode : 400, Message : name must be a string
+2021-04-14 19:16:56 info: [0mGET /weather/city?name=paris [33m400[0m 28.943 ms - 35[0m
+2021-04-14 19:18:09 info: 🚀 App listening on the port 3000
+2021-04-14 19:18:09 info: 🟢 The database is connected.
+2021-04-14 19:18:20 error: StatusCode : 400, Message : name must be a string
+2021-04-14 19:18:20 info: [0mGET /weather/city?name=paris [33m400[0m 23.104 ms - 35[0m
+2021-04-14 19:18:30 info: 🚀 App listening on the port 3000
+2021-04-14 19:18:30 info: 🟢 The database is connected.
+2021-04-14 19:18:39 error: StatusCode : 400, Message : name must be a string
+2021-04-14 19:18:39 info: [0mGET /weather/city?name=paris [33m400[0m 22.682 ms - 35[0m
+2021-04-14 19:19:45 info: 🚀 App listening on the port 3000
+2021-04-14 19:19:45 info: 🟢 The database is connected.
+2021-04-14 19:19:49 error: StatusCode : 400, Message : name must be a string
+2021-04-14 19:19:49 info: [0mGET /weather/city?name=paris [33m400[0m 23.032 ms - 35[0m
+2021-04-14 19:20:04 error: StatusCode : 400, Message : name must be a string
+2021-04-14 19:20:04 info: [0mGET /weather/city?name=paris [33m400[0m 2.590 ms - 35[0m
+2021-04-14 19:20:50 info: 🚀 App listening on the port 3000
+2021-04-14 19:20:50 info: 🟢 The database is connected.
+2021-04-14 19:20:55 error: StatusCode : 400, Message : name must be a string
+2021-04-14 19:20:55 info: [0mGET /weather/city?name=paris [33m400[0m 43.892 ms - 35[0m
+2021-04-14 19:21:37 info: 🚀 App listening on the port 3000
+2021-04-14 19:21:37 info: 🟢 The database is connected.
+2021-04-14 19:21:45 error: StatusCode : 500, Message : fetch is not defined
+2021-04-14 19:21:45 info: [0mGET /weather/city?name=paris [31m500[0m 10.984 ms - 34[0m
+2021-04-14 19:22:22 info: 🚀 App listening on the port 3000
+2021-04-14 19:22:22 info: 🟢 The database is connected.
+2021-04-14 19:22:23 error: StatusCode : 500, Message : node_fetch_1.fetch is not a function
+2021-04-14 19:22:23 info: [0mGET /weather/city?name=paris [31m500[0m 11.139 ms - 50[0m
+2021-04-14 19:22:31 info: 🚀 App listening on the port 3000
+2021-04-14 19:22:31 info: 🟢 The database is connected.
+2021-04-14 19:22:40 info: [0mGET /weather/city?name=paris [32m201[0m 164.170 ms - 77[0m
+2021-04-14 19:23:34 info: 🚀 App listening on the port 3000
+2021-04-14 19:23:34 info: 🟢 The database is connected.
+2021-04-14 19:23:39 info: [0mGET /weather/city?name=paris [32m201[0m 155.403 ms - 77[0m
+2021-04-14 19:23:47 info: [0mGET /weather/city?name=paris [32m201[0m 152.956 ms - 77[0m
+2021-04-14 19:24:34 info: 🚀 App listening on the port 3000
+2021-04-14 19:24:34 info: 🟢 The database is connected.
+2021-04-14 19:24:37 info: [0mGET /weather/city?name=paris [32m201[0m 164.166 ms - 77[0m
+2021-04-14 19:24:51 info: 🚀 App listening on the port 3000
+2021-04-14 19:24:51 info: 🟢 The database is connected.
+2021-04-14 19:24:52 info: [0mGET /weather/city?name=paris [32m201[0m 164.034 ms - 77[0m
+2021-04-14 19:25:28 info: 🚀 App listening on the port 3000
+2021-04-14 19:25:28 info: 🟢 The database is connected.
+2021-04-14 19:25:36 info: [0mGET /weather/city?name=paris [32m201[0m 169.296 ms - 77[0m
+2021-04-14 19:25:59 info: 🚀 App listening on the port 3000
+2021-04-14 19:25:59 info: 🟢 The database is connected.
+2021-04-14 19:26:00 info: [0mGET /weather/city?name=paris [32m201[0m 161.063 ms - 77[0m
+2021-04-14 19:26:22 info: 🚀 App listening on the port 3000
+2021-04-14 19:26:22 info: 🟢 The database is connected.
+2021-04-14 19:26:41 info: 🚀 App listening on the port 3000
+2021-04-14 19:26:41 info: 🟢 The database is connected.
+2021-04-14 19:26:43 info: [0mGET /weather/city?name=paris [32m201[0m 166.091 ms - 77[0m
+2021-04-14 19:27:41 info: 🚀 App listening on the port 3000
+2021-04-14 19:27:41 info: 🟢 The database is connected.
+2021-04-14 19:28:01 info: 🚀 App listening on the port 3000
+2021-04-14 19:28:01 info: 🟢 The database is connected.
+2021-04-14 19:28:05 info: [0mGET /weather/city?name=paris [32m201[0m 205.351 ms - 77[0m
+2021-04-14 19:28:26 info: 🚀 App listening on the port 3000
+2021-04-14 19:28:26 info: 🟢 The database is connected.
+2021-04-14 19:28:39 info: 🚀 App listening on the port 3000
+2021-04-14 19:28:39 info: 🟢 The database is connected.
+2021-04-14 19:28:42 info: [0mGET /weather/city?name=paris [32m201[0m 155.560 ms - 504[0m
+2021-04-14 19:29:04 info: 🚀 App listening on the port 3000
+2021-04-14 19:29:04 info: 🟢 The database is connected.
+2021-04-14 19:29:06 info: [0mGET /weather/city?name=paris [32m201[0m 159.526 ms - 504[0m
+2021-04-14 19:30:27 info: 🚀 App listening on the port 3000
+2021-04-14 19:30:27 info: 🟢 The database is connected.
+2021-04-14 19:30:37 info: 🚀 App listening on the port 3000
+2021-04-14 19:30:37 info: 🟢 The database is connected.
+2021-04-14 19:30:53 info: 🚀 App listening on the port 3000
+2021-04-14 19:30:53 info: 🟢 The database is connected.
+2021-04-14 19:46:00 info: [0mGET /weather/weather/coordinates?lat=59.9097344&lon=30.4447488 [33m404[0m 5.635 ms - 166[0m
+2021-04-14 19:46:09 info: [0mGET /weather/weather/coordinates?lat=59.9097344&lon=30.4447488 [33m404[0m 1.263 ms - 166[0m
+2021-04-14 19:46:29 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 145.525 ms - 84[0m
+2021-04-14 19:46:31 error: StatusCode : 500, Message : Cannot connect to api service
+2021-04-14 19:46:31 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [31m500[0m 12.899 ms - 43[0m
+2021-04-14 19:46:50 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 149.158 ms - 84[0m
+2021-04-14 19:47:34 error: StatusCode : 500, Message : Cannot connect to api service
+2021-04-14 19:47:34 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [31m500[0m 3.963 ms - 43[0m
+2021-04-14 19:47:42 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 152.460 ms - 84[0m
+2021-04-14 19:47:43 error: StatusCode : 500, Message : Cannot connect to api service
+2021-04-14 19:47:43 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [31m500[0m 3.734 ms - 43[0m
+2021-04-14 19:48:58 info: 🚀 App listening on the port 3000
+2021-04-14 19:48:58 info: 🟢 The database is connected.
+2021-04-14 19:49:58 info: 🚀 App listening on the port 3000
+2021-04-14 19:49:58 info: 🟢 The database is connected.
+2021-04-14 19:50:23 info: 🚀 App listening on the port 3000
+2021-04-14 19:50:23 info: 🟢 The database is connected.
+2021-04-14 19:50:59 info: 🚀 App listening on the port 3000
+2021-04-14 19:50:59 info: 🟢 The database is connected.
+2021-04-14 19:51:56 info: 🚀 App listening on the port 3000
+2021-04-14 19:51:56 info: 🟢 The database is connected.
+2021-04-14 19:52:31 info: 🚀 App listening on the port 3000
+2021-04-14 19:52:31 info: 🟢 The database is connected.
+2021-04-14 19:53:05 info: 🚀 App listening on the port 3000
+2021-04-14 19:53:05 info: 🟢 The database is connected.
+2021-04-14 19:53:24 info: 🚀 App listening on the port 3000
+2021-04-14 19:53:24 info: 🟢 The database is connected.
+2021-04-14 19:53:35 info: 🚀 App listening on the port 3000
+2021-04-14 19:53:35 info: 🟢 The database is connected.
+2021-04-14 19:54:23 info: 🚀 App listening on the port 3000
+2021-04-14 19:54:23 info: 🟢 The database is connected.
+2021-04-14 19:54:57 info: 🚀 App listening on the port 3000
+2021-04-14 19:54:57 info: 🟢 The database is connected.
+2021-04-14 19:57:25 info: 🚀 App listening on the port 3000
+2021-04-14 19:57:25 info: 🟢 The database is connected.
+2021-04-14 19:58:11 info: 🚀 App listening on the port 3000
+2021-04-14 19:58:11 info: 🟢 The database is connected.
+2021-04-14 20:00:17 info: 🚀 App listening on the port 3000
+2021-04-14 20:00:17 info: 🟢 The database is connected.
+2021-04-14 20:00:41 info: 🚀 App listening on the port 3000
+2021-04-14 20:00:41 info: 🟢 The database is connected.
+2021-04-14 20:00:46 info: [0mGET /weather/city?name=paris [32m201[0m 266.941 ms - 507[0m
+2021-04-14 20:00:57 error: StatusCode : 500, Message : Cannot connect to api service
+2021-04-14 20:00:57 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [31m500[0m 10.288 ms - 43[0m
+2021-04-14 20:01:21 info: 🚀 App listening on the port 3000
+2021-04-14 20:01:21 info: 🟢 The database is connected.
+2021-04-14 20:01:28 error: StatusCode : 500, Message : Cannot connect to api service
+2021-04-14 20:01:28 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [31m500[0m 19.676 ms - 43[0m
+2021-04-14 20:02:06 info: 🚀 App listening on the port 3000
+2021-04-14 20:02:06 info: 🟢 The database is connected.
+2021-04-14 20:02:12 info: 🚀 App listening on the port 3000
+2021-04-14 20:02:12 info: 🟢 The database is connected.
+2021-04-14 20:02:15 error: StatusCode : 500, Message : Cannot connect to api service
+2021-04-14 20:02:15 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [31m500[0m 20.243 ms - 43[0m
+2021-04-14 20:02:58 info: 🚀 App listening on the port 3000
+2021-04-14 20:02:59 info: 🟢 The database is connected.
+2021-04-14 20:03:00 error: StatusCode : 500, Message : Cannot connect to api service
+2021-04-14 20:03:00 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [31m500[0m 18.907 ms - 43[0m
+2021-04-14 20:04:33 error: StatusCode : 500, Message : Cannot connect to api service
+2021-04-14 20:04:33 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [31m500[0m 5.971 ms - 43[0m
+2021-04-14 20:04:44 info: 🚀 App listening on the port 3000
+2021-04-14 20:04:44 info: 🟢 The database is connected.
+2021-04-14 20:04:46 error: StatusCode : 500, Message : Cannot connect to api service
+2021-04-14 20:04:46 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [31m500[0m 19.363 ms - 43[0m
+2021-04-14 20:05:05 info: 🚀 App listening on the port 3000
+2021-04-14 20:05:05 info: 🟢 The database is connected.
+2021-04-14 20:05:12 info: 🚀 App listening on the port 3000
+2021-04-14 20:05:12 info: 🟢 The database is connected.
+2021-04-14 20:05:16 error: StatusCode : 500, Message : Cannot connect to api service
+2021-04-14 20:05:16 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [31m500[0m 21.288 ms - 43[0m
+2021-04-14 20:05:30 info: 🚀 App listening on the port 3000
+2021-04-14 20:05:30 info: 🟢 The database is connected.
+2021-04-14 20:05:33 error: StatusCode : 500, Message : Cannot connect to api service
+2021-04-14 20:05:33 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [31m500[0m 23.838 ms - 43[0m
+2021-04-14 20:06:10 info: 🚀 App listening on the port 3000
+2021-04-14 20:06:10 info: 🟢 The database is connected.
+2021-04-14 20:06:17 info: 🚀 App listening on the port 3000
+2021-04-14 20:06:17 info: 🟢 The database is connected.
+2021-04-14 20:06:21 error: StatusCode : 500, Message : Cannot connect to api service
+2021-04-14 20:06:21 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [31m500[0m 19.889 ms - 43[0m
+2021-04-14 20:06:51 info: 🚀 App listening on the port 3000
+2021-04-14 20:06:51 info: 🟢 The database is connected.
+2021-04-14 20:07:17 info: 🚀 App listening on the port 3000
+2021-04-14 20:07:17 info: 🟢 The database is connected.
+2021-04-14 20:07:21 info: 🚀 App listening on the port 3000
+2021-04-14 20:07:21 info: 🟢 The database is connected.
+2021-04-14 20:07:23 error: StatusCode : 500, Message : Cannot connect to api service
+2021-04-14 20:07:23 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [31m500[0m 19.177 ms - 43[0m
+2021-04-14 20:08:21 info: 🚀 App listening on the port 3000
+2021-04-14 20:08:21 info: 🟢 The database is connected.
+2021-04-14 20:09:17 error: StatusCode : 500, Message : Cannot connect to api service
+2021-04-14 20:09:17 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [31m500[0m 21.316 ms - 43[0m
+2021-04-14 20:09:53 info: 🚀 App listening on the port 3000
+2021-04-14 20:09:53 info: 🟢 The database is connected.
+2021-04-14 20:09:57 error: StatusCode : 500, Message : Cannot connect to api service
+2021-04-14 20:09:57 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [31m500[0m 20.694 ms - 43[0m
+2021-04-14 20:11:00 info: 🚀 App listening on the port 3000
+2021-04-14 20:11:00 info: 🟢 The database is connected.
+2021-04-14 20:11:01 error: StatusCode : 500, Message : Cannot connect to api service
+2021-04-14 20:11:01 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [31m500[0m 20.899 ms - 43[0m
+2021-04-14 20:11:37 info: 🚀 App listening on the port 3000
+2021-04-14 20:11:37 info: 🟢 The database is connected.
+2021-04-14 20:11:56 info: 🚀 App listening on the port 3000
+2021-04-14 20:11:56 info: 🟢 The database is connected.
+2021-04-14 20:11:58 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 172.145 ms - 515[0m
+2021-04-14 20:12:23 info: 🚀 App listening on the port 3000
+2021-04-14 20:12:23 info: 🟢 The database is connected.
+2021-04-14 20:12:26 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 178.392 ms - 84[0m
+2021-04-14 20:12:27 info: [0mGET /weather/city?name=[object%20MouseEvent] [32m201[0m 165.360 ms - 77[0m
+2021-04-14 20:12:46 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 148.394 ms - 84[0m
+2021-04-14 20:12:47 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 152.689 ms - 515[0m
+2021-04-14 20:14:30 info: [0mGET /weather/coordinates?lat=59.9097&lon=30.4447 [32m201[0m 148.481 ms - 84[0m
+2021-04-14 20:14:31 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 152.422 ms - 515[0m
+2021-04-14 20:15:59 info: [0mGET /weather/coordinates?lat=59.9097&lon=30.4447 [32m201[0m 164.319 ms - 84[0m
+2021-04-14 20:16:00 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 196.494 ms - 515[0m
+2021-04-14 20:21:03 info: 🚀 App listening on the port 3000
+2021-04-14 20:21:03 info: 🟢 The database is connected.
+2021-04-14 20:21:12 info: [0mGET /weather/coordinates?lat=59.9097&lon=30.4447 [32m201[0m 152.085 ms - 84[0m
+2021-04-14 20:21:13 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 126.610 ms - 515[0m
+2021-04-14 20:23:09 info: [0mGET /weather/coordinates?lat=59.91&lon=30.44 [32m201[0m 156.408 ms - 84[0m
+2021-04-14 20:23:11 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 144.754 ms - 512[0m
+2021-04-14 20:25:47 info: 🚀 App listening on the port 3000
+2021-04-14 20:25:47 info: 🟢 The database is connected.
+2021-04-14 20:25:50 info: 🚀 App listening on the port 3000
+2021-04-14 20:25:50 info: 🟢 The database is connected.
+2021-04-14 20:25:50 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 168.100 ms - 84[0m
+2021-04-14 20:25:51 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 154.861 ms - 512[0m
+2021-04-14 20:26:32 info: 🚀 App listening on the port 3000
+2021-04-14 20:26:32 info: 🟢 The database is connected.
+2021-04-14 20:26:35 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 159.511 ms - 84[0m
+2021-04-14 20:26:36 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 130.769 ms - 512[0m
+2021-04-14 20:26:59 info: 🚀 App listening on the port 3000
+2021-04-14 20:27:00 info: 🟢 The database is connected.
+2021-04-14 20:27:27 info: 🚀 App listening on the port 3000
+2021-04-14 20:27:27 info: 🟢 The database is connected.
+2021-04-14 20:27:31 info: 🚀 App listening on the port 3000
+2021-04-14 20:27:31 info: 🟢 The database is connected.
+2021-04-14 20:27:34 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 200.420 ms - 499[0m
+2021-04-14 20:28:27 info: [0mGET /weather/city?name=%D0%9F%D1%8F%D1%82%D0%B8%D0%B3%D0%BE%D1%80%D1%81%D0%BA [32m201[0m 160.262 ms - 515[0m
+2021-04-14 20:28:30 info: [0mGET /weather/city?name=paris [32m201[0m 147.546 ms - 506[0m
+2021-04-14 20:28:31 info: [0mGET /weather/city?name=paris [32m201[0m 127.158 ms - 506[0m
+2021-04-14 20:28:31 info: [0mGET /weather/city?name=%D0%9F%D1%8F%D1%82%D0%B8%D0%B3%D0%BE%D1%80%D1%81%D0%BA [32m201[0m 144.851 ms - 515[0m
+2021-04-14 20:28:31 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 146.011 ms - 499[0m
+2021-04-14 20:37:25 info: [0mGET /weather/city?name=%D0%9F%D1%8F%D1%82%D0%B8%D0%B3%D0%BE%D1%80%D1%81%D0%BA [32m201[0m 140.951 ms - 515[0m
+2021-04-14 20:37:25 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 157.127 ms - 512[0m
+2021-04-14 20:37:25 info: [0mGET /weather/city?name=paris [32m201[0m 152.042 ms - 506[0m
+2021-04-14 20:38:21 info: [0mGET /weather/city?name=paris [32m201[0m 203.161 ms - 506[0m
+2021-04-14 20:38:21 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 212.600 ms - 512[0m
+2021-04-14 20:38:21 info: [0mGET /weather/city?name=%D0%9F%D1%8F%D1%82%D0%B8%D0%B3%D0%BE%D1%80%D1%81%D0%BA [32m201[0m 211.063 ms - 515[0m
+2021-04-14 20:38:39 info: [0mGET /weather/city?name=%D0%9F%D1%8F%D1%82%D0%B8%D0%B3%D0%BE%D1%80%D1%81%D0%BA [32m201[0m 130.625 ms - 515[0m
+2021-04-14 20:38:39 info: [0mGET /weather/city?name=paris [32m201[0m 129.521 ms - 502[0m
+2021-04-14 20:38:39 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 152.843 ms - 512[0m
+2021-04-14 20:39:25 info: [0mGET /weather/city?name=paris [32m201[0m 172.288 ms - 502[0m
+2021-04-14 20:39:25 info: [0mGET /weather/city?name=%D0%9F%D1%8F%D1%82%D0%B8%D0%B3%D0%BE%D1%80%D1%81%D0%BA [32m201[0m 177.808 ms - 515[0m
+2021-04-14 20:39:25 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 205.396 ms - 512[0m
+2021-04-14 20:40:04 info: [0mGET /weather/city?name=paris [0m-[0m - ms - -[0m
+2021-04-14 20:40:04 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [0m-[0m - ms - -[0m
+2021-04-14 20:40:04 info: [0mGET /weather/city?name=%D0%9F%D1%8F%D1%82%D0%B8%D0%B3%D0%BE%D1%80%D1%81%D0%BA [0m-[0m - ms - -[0m
+2021-04-14 20:40:22 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 147.461 ms - 512[0m
+2021-04-14 20:40:45 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 169.193 ms - 512[0m
+2021-04-14 20:40:53 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 138.432 ms - 512[0m
+2021-04-14 20:42:20 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 143.525 ms - 512[0m
+2021-04-14 20:42:23 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 124.992 ms - 512[0m
+2021-04-14 20:42:30 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 134.932 ms - 512[0m
+2021-04-14 20:42:47 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 143.885 ms - 512[0m
+2021-04-14 20:43:54 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 142.110 ms - 512[0m
+2021-04-14 20:44:09 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 150.027 ms - 512[0m
+2021-04-14 20:44:37 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 126.764 ms - 512[0m
+2021-04-14 20:45:11 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 157.299 ms - 512[0m
+2021-04-14 20:45:21 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 123.430 ms - 512[0m
+2021-04-14 20:46:17 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 174.932 ms - 512[0m
+2021-04-14 20:46:24 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 149.773 ms - 512[0m
+2021-04-14 20:46:46 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 131.754 ms - 512[0m
+2021-04-14 20:47:11 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 149.310 ms - 512[0m
+2021-04-14 20:47:20 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 164.446 ms - 512[0m
+2021-04-14 20:47:33 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 152.601 ms - 512[0m

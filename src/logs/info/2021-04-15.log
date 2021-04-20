@@ -1,0 +1,25 @@
+2021-04-15 19:04:44 info: 🚀 App listening on the port 3000
+2021-04-15 19:04:44 info: 🟢 The database is connected.
+2021-04-15 19:19:27 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 176.025 ms - 510[0m
+2021-04-15 19:19:30 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 141.869 ms - 510[0m
+2021-04-15 19:19:32 info: [0mGET /weather/city?name=Pyatigorsk [32m201[0m 156.571 ms - 515[0m
+2021-04-15 19:19:39 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 143.019 ms - 510[0m
+2021-04-15 19:19:39 info: [0mGET /weather/city?name=Pyatigorsk [32m201[0m 148.924 ms - 515[0m
+2021-04-15 19:19:39 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 133.271 ms - 510[0m
+2021-04-15 19:21:29 info: [0mGET /weather/city?name=Pyatigorsk [32m201[0m 138.346 ms - 515[0m
+2021-04-15 19:21:29 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 154.228 ms - 510[0m
+2021-04-15 19:21:29 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 202.978 ms - 498[0m
+2021-04-15 19:21:32 info: [0mGET /weather/coordinates?lat=59.9097344&lon=30.4447488 [32m201[0m 123.172 ms - 498[0m
+2021-04-15 19:21:32 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 143.273 ms - 510[0m
+2021-04-15 19:21:32 info: [0mGET /weather/city?name=Pyatigorsk [32m201[0m 149.444 ms - 515[0m
+2021-04-15 19:21:47 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 191.588 ms - 510[0m
+2021-04-15 19:21:47 info: [0mGET /weather/city?name=Pyatigorsk [32m201[0m 212.355 ms - 515[0m
+2021-04-15 19:21:47 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 271.955 ms - 510[0m
+2021-04-15 20:27:23 info: [0mGET /weather/city?name=paris [32m201[0m 156.656 ms - 494[0m
+2021-04-15 20:27:41 info: [0mGET /weather/city?name=paris [32m201[0m 147.028 ms - 494[0m
+2021-04-15 20:27:41 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 159.450 ms - 514[0m
+2021-04-15 20:27:41 info: [0mGET /weather/city?name=Pyatigorsk [32m201[0m 167.812 ms - 544[0m
+2021-04-15 20:27:41 info: [0mGET /weather/city?name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3 [32m201[0m 151.889 ms - 514[0m
+2021-04-15 20:33:43 info: [0mGET /signup [33m404[0m 27.757 ms - 145[0m
+2021-04-15 20:33:48 info: [0mPOST /signup [32m201[0m 125.957 ms - 171[0m
+2021-04-15 21:25:00 info: [0mGET /weather/city?name=paris [32m201[0m 159.218 ms - 494[0m
