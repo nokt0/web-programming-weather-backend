@@ -4,6 +4,8 @@ export interface Coordinates {
 }
 
 export interface WeatherApiResponse {
+  cod: number;
+  message: string;
   clouds: { all: number },
   coord: Coordinates,
   id: number,

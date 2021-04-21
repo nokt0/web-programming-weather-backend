@@ -38,11 +38,16 @@ class FavoriteController {
         // Check city exists
         try {
             weatherForCity = await this.weatherService.requestWeatherByCity(cityNameDto);
+            console.log('weatherForCity',weatherForCity);
+            if(+weatherForCity?.cod > 299 || +weatherForCity?.cod < 200){
+                next(new Error(weatherForCity?.message));
+                return;
+            }
         } catch (error) {
             next(error)
         }
 
-        const cityDto: CreateCityDto = {name: weatherForCity?.name, cityId: weatherForCity?.id.toString()}
+        const cityDto: CreateCityDto = {name: weatherForCity?.name, cityId: weatherForCity?.id?.toString()}
 
         try {
             const foundCity = await this.favoriteService.findCityById(cityDto as CreateCityIdDto);
